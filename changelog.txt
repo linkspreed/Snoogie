@@ -1,0 +1,751 @@
+Update 11.1.0 - 9 September, 2021
+
+Implemented the ability to set border width, color and style for avatar blocks.
+Improved the look of the verified badge & added the option to move it at the top or bottom of the biolink page.
+Improved the Spotify embedding of tracks and albums for better looks and consistency.
+Fixed FAQ block content where it would not properly display line breaks.
+Fixed Admin Panel Custom plan update not properly working.
+Fixed TikTok embed block.
+Other v11 related fixes.
+Update 11.0.0 - 6 September, 2021
+
+Already existing biolink pages social links, avatars, titles and descriptions will need to be re-added after the update. Please contact me if you want me to help with migration (if migration is a must for you).
+Developed the new Ultimate Pack Plugin -> Ultimate Blocks
+Implemented Coinbase (crypto) payments.
+Fully reworked the Trial system. Now you can set how many days you want to give out on a per-plan basis.
+Implemented the ability to display, edit and set a Custom plan on the plans section, via the admin panel.
+Implemented the ability to highlight a particular plan with a particular color via the admin panel.
+Implemented a new way to select biolink blocks when adding blocks to a biolink page, including search functionality.
+Implemented Twitter login.
+Implemented the ability to limit the total amount of biolink blocks a user can have per biolink page.
+Paragraph & heading block has been added instead of the Text block.
+Avatar block has been added instead of the already existing fixed avatar setting (+ size setting & border-radius).
+Socials block has been added instead of the already existing fixed socials.
+Implemented the ability to set custom favicons for biolink pages.
+Biolink link blocks: outline setting has been replaced with the ability to set the border width, style & color.
+Biolink link blocks: Implemented the ability to set the link to open in a new tab or not.
+Added new background gradient presets.
+The verified badge will now show in the footer.
+Fully reworked the social logins workflow for better performance and user experience.
+Reworked the admin panel plan update, create & user update pages for consistency purposes.
+Improved the way plans are displayed.
+Improved the way admin panel plans are displayed.
+Improved all the embeddable blocks: you will now not be allowed to write any type of URL in there, only from trusted sources.
+Added nice hover animation for biolink blocks.
+If you now redeem a plan that you already have on your account, the redeemed plan days will be now added on top.
+Fixed password protected biolink pages bug.
+Many code cleanups, improvements and other small bugfixes.
+Update 10.0.0 - 9 August, 2021
+
+Implemented Google login.
+Implemented the ability to export links visits statistics via CSV and JSON.
+Implemented admin panel bulk deletion feature for Links, Pixels, Projects, Domains.
+Completely remade the PayPal One Time payments with the new V2 API.
+Completely remade the PayPal Subscription payments which fixed a few small UX issues.
+Implemented the ability to view & delete all the user logs from the Admin Panel, filter them, export them via CSV and JSON.
+Implemented user logs device type, country, and operating system tracking for important activities of an account.
+Implemented the ability to view all the used coupons of a particular user from the admin panel.
+Implemented the ability to export Account Payments to JSON and CSV.
+Implemented the ability to export Account Logs to JSON and CSV & filter them.
+Implemented the ability to enable/disable search engine indexing from the admin panel.
+Reworked the ability to send SMTP test emails from the admin panel for testing.
+Now you are able to use utf8 characters in URL aliases, (ex: domain.com/特点)
+Fully reworked the whole admin panel - website settings page, which now avoids some small, yet annoying bugs & UX bugs.
+Reworked the admin panel - pages part for a better UX experience.
+Improved the consistency of the success messages across the platform, while reducing the size of the translation file.
+Fixed small taxes calculation issue.
+Various other improvements, code cleanups, and small fixes.
+Update 9.3.0 - 10 July, 2021
+
+Implemented RTL support.
+Implemented the ability to enable/disable the Referral system per plan from the admin panel.
+Improved handling of bio link pages that belong to expired plans of users.
+Reworked the Pro Pack Plugin to work with the new Plugins system.
+Fixed and improved small multi-language-related bugs.
+Fixed image & image grid bio link blocks not working properly with the offload plugin.
+Update 9.2.0 - 17 June, 2021
+
+Implemented email reminders for accounts that are on one-time payments (not recurring) 3 days before expiration.
+Implemented the first "Affiliate" plugin, available to purchase - Affiliate plugin
+Update 9.1.0 - 11 June, 2021
+
+Implemented the first "Offload" plugin, available to purchase - Offload plugin
+Fully remade how the multi language system works which results in better UX and SEO.
+Implemented the first version of the Plugins Management system.
+Implemented the ability to change the plans order via the admin panel.
+Fixed a few small bugs.
+Update 9.0.0 - 31 May, 2021
+
+Implemented admin panel statistics total numbers per selected date range.
+Implemented new admin statistics - links, biolink blocks, projects, pixels, domains statistics pages.
+Implemented new admin panel users management - bulk selection & deletion feature.
+Implemented new admin panel Plans API (Read).
+Implemented Thank You URL redirection for mail sign-up biolink block.
+Completely reworked the QR code implementation for biolink pages and shortened links. Now you have a generator to configure and customize your QR code.
+Reworked the checkout flow (better UX) for when the user is required to fill in his billing details.
+Improved all the emails that are being sent (activation, password reset..etc) for consistency.
+Updated the bootstrap library to the latest stable release of 4.6.
+The biolink leap link will now take into consideration Pixels.
+Fixed deletion problem of Pixels & Projects from the admin panel.
+Fixed various small bugs throughout the product.
+Update 8.0.1 - 9 May, 2021
+
+Implemented a new way to update the database.
+Fixed Admin Panel Plans - update all plan subscribers button not working.
+Fixed links page not displaying the delete link modal.
+Update 8.0.0 - 8 May, 2021
+
+Implemented the ability to set announcements text color & background color.
+Implemented the ability to set an opengraph image for the homepage via the admin panel.
+Implemented the ability to set a click limit for shortened URLs.
+Implemented the ability to set an expiration URL for shortened URLs.
+Reworked how the biolink blocks are stored into the database, leading to a way much higher performance / loading speeds.
+Implemented the "name" field for the Email Signup biolink block.
+Implemented targeting by countries for shortened URLs.
+Implemented targeting by browser language for shortened URLs.
+Implemented targeting by device types for shortened URLs.
+Implemented rotation (for A/B testing) for shortened URLs.
+Implemented the new Pixels system (facebook, google analytics, google tag manager, linkedin, pinterest, twitter, quora).
+Pixels can now be set for Shortened URLs as well.
+Removed the old implementation of Fb pixel / Google analytics for Biolink pages in favor of the new Pixels system.
+Implemented the ability to switch between raw html content & wysiwyg editor for the admin panel pages system.
+Implemented the ability to export the Links to CSV & JSON.
+Implemented a new Admin Panel Pixels management page.
+Improved the deletion process of links and biolink blocks with a better modal.
+Fixed biolink block stats not working when used on custom domains.
+Update 7.0.1 - 22 April, 2021
+
+Bugfix custom domains - custom index URL not working.
+Bugfix offline payments - approval not properly working via the admin panel.
+Bugfix shortened links not working on second try.
+Bugfix biolink page preview not working when biolink is publicly disabled.
+Bugfix QR code not working.
+Update 7.0.0 - 19 April, 2021
+
+Implemented the ability to set image uploads size limiters from the admin panel.
+Implemented more biolink block animations, including the ability to set how many times the animation runs.
+Implemented the ability to remove already uploaded biolink related images, instead of only being able to replace them.
+Implemented the ability to use the Upload image feature for SEO Open Graph on biolink pages.
+Implemented the ability to use the Upload image feature for Vcard and Mail biolink blocks.
+Added company field to the Vcard biolink block.
+Implemented an announcements system from the admin panel where you can set short text announcements for your users.
+Implemented the Admin Projects Management page, where you can see all the created campaigns, filter them, export them and also delete any of them.
+Implemented hCaptcha, as a great alternative to Google Recaptcha.
+Implemented Admin API Users List endpoint.
+Implemented the API feature to be enabled/disabled per plan.
+Implemented account API page, including API documentation.
+Implemented API user details endpoint (Read).
+Implemented API payments endpoint (Read).
+Implemented API domains endpoint (CRUD).
+Implemented API user logs endpoint (Read).
+Implemented API projects endpoint (CRUD).
+Implemented API links endpoint (Read).
+Implemented API link statistics endpoint (Read).
+Reworked how custom domains, biolink pages & shortened links are processed for better performance.
+Reworked the projects list page, including the addition of a new "color" field.
+Fully reworked all the statistics related charts to group results by Years, months, days & hours based on the selected date range.
+Some of the forms were remade, now displaying better error messages based on which field generated that error (in case of one).
+Improved UX for the Reset Password, Resend Activation, Lost Password pages.
+Separated the language JSON file into 2 of them: one for the regular user, one for the Admin panel. This change was done for better performance & also for the fact that most people do not need to also translate the admin panel.
+Replaced the TinyMCE library with a faster, more lightweight one for the admin panel pages system.
+Reworked the Admin Dashboard.
+Updated all product dependencies to their latest versions, where available.
+Fixed chrome auto-filling problem on biolink pages.
+Fixed some cases where a biolink page / shortened URL could not be deleted.
+A ton of other improvements, new features, bug fixes, and code cleanups.
+Update 6.2.0 - 28 February, 2021
+
+Implemented the ability for the end-user to upload his own images for the Image block, Image grid block and Link block thumbnail (instead of pointing an URL).
+Implemented the ability for the Admin to receive email notifications when a Custom domain is pending.
+Implemented the ability to view stats by hours for the Admin Statistics page.
+Implemented the ability to select an "All time" date picker range for stats.
+Improved admin panel CSV and JSON exports: now data from all the pages will be exported at once.
+Implemented links cities tracking statistics.
+Implemented links UTM parameters tracking statistics.
+Reworked the statistics latest visits page with a more helpful overview page.
+Various other improvements, new small features, and bug fixes.
+Update 6.1.0 - 1 February, 2021
+
+Implemented the ability to set the Biolink page branding with HTML from the admin panel.
+Implemented the ability for the Admin to export to CSV and JSON the users' list.
+Implemented the ability for the Admin to export to CSV and JSON the payments list.
+Implemented the ability for the Admin to set up Webhook URLs events for new user registrations and user deletions (helpful when you want to automatically sign up emails to a newsletter on registration for example).
+Fixed wrong link when trying to access a biolink page from the Admin Panel Links Management page.
+Other small fixes and cleanups.
+Update 6.0.0 - 23 January, 2021
+
+Implemented the new Admin API for the users resource (Create, Read, Update, Delete, One time login).
+Implemented a new documentation page for the Admin API.
+Implemented the ability to enable/disable the Captcha based on individual pages in the admin panel website settings.
+Fully reworked the dashboard, making it much easier to get started and create biolink pages and shortened links.
+Fully reworked how the Projects system is working.
+Fully reworked all the Admin Panel tables (Users, Payments, Websites).
+Implemented filtering & ordering system in the Admin Panel tables (Users, Payments, Websites).
+Discount codes can now be created for hidden plans as well.
+Discount & redeemable codes can now be shared via a link for better convenience.
+Fixed biolink button statistics not working for custom domains.
+Multiple other fixes, code cleanups, and improvements.
+Update 5.5.0 - 5 January, 2021
+
+Implemented the ability to enable/disable each type of Biolink Block per plans, from the admin panel.
+Implemented a nicer biolink block creation modal.
+Implemented the ability for the Vcard and Mail block to have an image URL thumbnail as well.
+Implemented the ability to set an opengraph image URL for biolink pages.
+Custom domains that get updated by the users will automatically go into pending for the admins to approve.
+Fixed the ability to create new mail sign up forms.
+Fixed RSS Feed block of the PRO Plugin.
+Update 5.4.0 - 3 January, 2021
+
+Image blocks will now also show click tracking statistics.
+Improved the flow of the Payment process when the user needs to enter his billing details.
+Fixed date selectors in some cases showing a wrong date other than the selected one.
+Fixed PayPal subscription payments when a discount code has been used.
+Update 5.3.1 - 10 December, 2020
+
+Fix biolink buttons animations.
+Fixed link scheduling timezone issues.
+Update 5.3.0 - 6 December, 2020
+
+Implemented the ability to set the default theme style (light/dark) from the admin panel.
+Implemented a filtering feature for the Account Payments page.
+Implemented a filtering feature for the Dashboard page (for projects).
+Implemented a filtering feature for the Project page (for links).
+Implemented the Facebook register button on the Register page as well.
+Fixed potential timezone problems throughout the product.
+Other small improvements and code cleanups.
+Update 5.2.0 - 17 November, 2020
+
+Implemented the ability to set the default biolink page branding from the admin panel.
+Fully redesigned home page.
+Improved the consistency of the design throughout the product, including some UX improvements.
+Improved performance of the website when a user is logged in.
+Implemented htaccess browser caching rules for images, css and javascript.
+Implemented help tooltips for all the features that are blocked on particular plans.
+Fixed problem where accounts wouldn't be able to change their email in some cases.
+Fixed link scheduling bug.
+Various looks improvements and code cleanups.
+Update 5.1.0 - 19 October, 2020
+
+Implemented the Leap Link feature for biolink pages, that can be toggled per plan.
+Implemented the ability to add image blocks on biolink pages.
+Implemented the ability for the admin to disable the main domain to be used as domain for shortening or biolink pages.
+Fully removed and replaced the previous datepicker with a better one.
+Fully replaced the browser tracking library with a new and more up to date one for better accuracy on link statistics.
+Link statistics will try to not count bot accesses from now on.
+Improved the looks and functionality of the admin statistics page.
+Fixed Account Settings page displaying billing form when not needed.
+Fix pages created from the admin panel not being ordered properly.
+Fix invoices where inclusive taxes were not calculated properly.
+Update 5.0.0 - 23 September, 2020
+
+Fully reworked & redesigned the checkout process.
+Implemented the ability to view invoices for all the payments via the admin panel.
+Implemented the ability to delete payment logs from the admin panel.
+Implemented the ability for admins to create & configure taxes from the admin panel.
+Implemented the ability to attach different taxes for any paid plan.
+Implemented the ability to enable / disable the taxes & billing system completely from the admin panel.
+Implemented email verification when an already existing account is changing their email address to another one for better security.
+Implemented a new plan feature for SEO that can block search engines from indexing the actual biolink page.
+Implemented the ability to set a password to a biolink or shortened link, feature can be toggled via plan settings.
+Implemented the ability to set a Sensitive content warning to a biolink or shortened link, feature can be toggled via plan settings.
+Implemented the ability to enable & disable Music Embeds via the plan feature.
+Implemented the ability to enable & disable Video Embeds via the plan feature.
+Implemented the ability to enable / disable custom domains from the admin panel.
+Now all user submitted custom domains will be added on a Pending status until an admin approves and attaches it.
+Updated bootstrap to the latest version 4.5.2.
+Updated jquery to the latest version 3.5.1.
+Reworked the user account deletion and made it into a new, separated page.
+Improved how certain pages look when no data is available.
+Improved the way a biolink link can be switched on and off.
+Improved the Text Block on the Biolink page to accept multiple line breaks.
+Improved the way biolink social fields are presented to a more consistent format.
+Fixed Admin User Update not being able to set an account to a disabled status.
+A lot of other fixes, code cleanups and improvements that don't need mentioning.
+Update 4.8.2 - 5 September, 2020
+
+Implemented the ability to have custom Invoice number prefix.
+Updated Stripe payment handler to support the latest API version of Stripe.
+Updated Stripe PHP SDK to the latest version.
+Replaced Google's Favicon provider (for displaying website favicons) with a more privacy-friendly solution from DuckDuckGo.
+Now when a user is banned, his links won't be accessible anymore.
+Fixed biolink page title not properly showing up when a custom SEO one is not set.
+Other small improvements.
+Update 4.8.1 - 6 August, 2020
+
+Fixed Biolink page deletion not deleting the actual uploaded images (avatar, background if any).
+Fixed user deletion not deleting all the uploaded images (avatars, backgrounds for all the biolink pages).
+Fixed admin package update not properly working when clicking on update all subscribers button.
+Fixed admin dashboard when the payment system is not enabled for regular license holders, in some cases.
+Fixed admin links ordering by date not properly working.
+Fixed admin users management user deletion not working.
+Fixed project page visual bug when a link is too big.
+Update 4.8.0 - 1 August, 2020
+
+Implemented the ability to ban a user from the Admin Panel.
+Implemented pagination for the Projects list, Biolink pages list, Account Payments, Account Logs, Custom Domains pages.
+Implemented the ability to offer Lifetime deals to your customers
+Implemented the ability to turn off certain Payment Frequencies per Plan (from the admin panel)
+Implemented a dedicated "Thank you" page after a successful payment with access to payment-related data from javascript to also make external affiliate tracking much more easy to implement.
+Implemented the ability to take on Offline payments.
+Improved the performance of the Project page.
+Reworked the Admin Panel User View page to show more details and have direct links to users related content.
+Reworked the Admin Panel Plan Update page to have a more clearly defined actions when updating a plan.
+Improved Admin Codes, Pages, Pages Categories to show a more beautiful default view when no codes are created.
+Improved the Admin Panel Dashboard responsiveness and widgets for mobile.
+Improved a lot of other parts in the Admin panel to be more user friendly.
+Reworked how the Dark / Light switcher is working.
+Reworked parts of the Packages choosing page, Payment checkout page and improved them.
+Reworked parts of the footer to be more responsive and look better.
+Improved the speed of execution of the following pages: Sitemap, Generation of the simple captcha, Stripe & Paypal Webhooks
+Fixed Facebook login not tracking the Country of the user on registration.
+Fixed Free and Trial plans still showing up when they are set to "Hidden".
+Fixed text block not breaking the text when too long.
+Upgraded phpmailer, recaptcha, stripe, fontawesome libraries to the latest versions.
+Ads which are set from the admin panel will now not show on the Login, Register, Lost password, Resend activation and Reset Password, Plan selection, Payment and Thank you payment pages.
+Improved the helper text when adding a custom domain.
+Various other code cleanup and improvements throughout the product.
+Update 4.7.1 - 20 June, 2020
+
+Improved the visual presentation on the Admin Page Create & Update and Admin Page Category Create & Update.
+Now when selecting an image to upload, the user will only be able to select image files that are allowed, to avoid any other confusion.
+Fixed Twitch embed as they have changed their API.
+Fixed Biolink Page preview iframe not being scrollable in certain browsers.
+Fixed Admin Page Update problem not deleting the cache after the update.
+Removed Fontawesome Iconpicker library as it was not updated by the creators of it and it is no longer up to date.
+Made the click box for the Social Icons in the biolink page bigger so that mobile users can tap on them easier.
+Other small improvements and changes.
+Update 4.7.0 - 31 May, 2020
+
+Implemented Additional Global Domains as a package feature.
+Implemented the ability for a Custom Domain to have a custom index redirection.
+Implemented Custom Back-half as a package feature for users to have the ability to choose custom aliases for their links.
+Implemented QR Code for the Biolink pages and Shortened links.
+Implemented Deep Linking package feature that allows the user to have custom URL structures, like mail:// or app://..etc.
+Fully reworked the Admin Statistics page with a new structure and more statistics.
+Fully redesigned the Admin Panel.
+Implemented the ability for a Package to be hidden from the Frontend but still active.
+All the redirects from the Shortened links and Biolink pages are now happening with a 301 Permanent Redirect as its the best choice for SEO purposes.
+Biolink Text block - Title is not required anymore.
+Documentation & Installation process design reworked.
+Biolink page ads will now not show anymore to other users on Biolink pages which are owned by users that have the "No ads" package option.
+Improved default language text and also added helper tooltips for every package feature listed.
+Fixed Link Statistics page not properly counting the stats shown.
+Fixed Stripe payments not counting the usage of discount codes when a payment happens.
+Fixed dates shown on Charts not taking into consideration the language file.
+Fixed Facebook Login not notifying the admin when the user signed up.
+Fixed Admin Link deletion bug.
+Fixed Paypal Recurring Annual payments bug.
+Fixed Admin User Create function not taking into consideration the default timezone and language when creating the user.
+Fixed Admin Settings page being slow in certain cases when saving data.
+Removed the ability to have custom alias URL's for links inside of a Biolink page.
+Other various improvements and fixes.
+Update 4.6.1 - 24 April, 2020
+
+Implemented the ability to have Header and Footer ads specific for Biolink pages (set from the admin panel).
+Fixed redeemable codes not working.
+Fixed footer social icons displaying when they should not.
+Fixed other small visual and technical bugs.
+Update 4.6.0 - 22 April, 2020
+
+Implemented Two-factor authentication option for users to use with their authenticator app.
+Implemented Dark mode.
+Implemented a separated color changer for the social buttons links in the biolink page.
+Implemented the ability for the user to Add, Edit and Delete custom domains.
+Implemented the ability for the admin to limit the number of custom domains a user can add.
+Implemented the ability for the admin to disable custom domains for users entirely.
+Implemented the ability to disable the link shortener functionality.
+Implemented new Text and description block for the biolink page.
+Enabled the ability to edit the transparency of colors for all color related functions inside of the Biolink page.
+Implemented the ability to delete a Biolink page avatar.
+Fully reworked the statistics page for links.
+Implemented more statistics for links.
+Revamped the overall look of the dashboard, projects pages.
+Improved the workflow and preview of the Biolink page when editing it.
+Revamped the documentation look.
+Revamped the installation look.
+Other and many other improvements in the platform.
+Fixed mailchimp sub box not working on custom domains.
+Mailchimp sub box will not be able to be submitted more than once per user to avoid spamming.
+Other small fixes.
+Update 4.5.1 - 3 April, 2020
+
+Fixed cache not updating for custom domains when changing the settings of a Biolink page.
+Fixed Mailchimp integration.
+Fixed Resend Activation page not properly sending the email.
+Fixed Lost Password page not properly sending the email.
+Fixed packages choose button not linking to the proper package.
+Update 4.5.0 - 2 April, 2020
+
+Implemented the ability to edit the name of an already existing Project.
+Highly improved the speed and performance of a Biolink page / shortened URLs.
+Highly improved the speed and performance of the whole website.
+Implemented UTM Parameters new package feature option for user's Biolink pages.
+Implemented Custom Fonts new package feature option for user's Biolink pages to change their font.
+Implemented Socials new package feature option for user's Biolink pages to add their social links.
+Implemented SEO new package feature option for user's Biolink pages to change their title and meta description.
+Implemented the ability for the user to trigger the verified checkmark (show/hide).
+Implemented TikTok video embed for Biolink pages.
+Implemented Mail Sign up form, integrated with Mailchimp or Webhooks.
+Implemented the ability to duplicate a Biolink link.
+Implemented Codes system ( Discount and redeemable codes).
+Implemented Country detection for users on login.
+Redesigned how the plans are looking.
+Improved the responsiveness for mobile screens of the whole website.
+Improved workflow and overall look of the whole website.
+Updated the country detection database to the latest version.
+Implemented sticky preview for the Biolink page when editing the site.
+Fixed Safari preview of the biolink page not looking properly.
+Fixed potential bugs in Paypal payments for certain currencies.
+The registration name field now accepts accented characters as well.
+Removed Instagram Login - Because Facebook has fully removed the API, use Facebook login instead.
+Fixed various timezone related bugs.
+Fixed various datepicker related bugs.
+Update 4.4.0 - 27 January, 2020
+
+Remade the dates translation mechanism to not be based on the server settings anymore but to be fully translatable from the language file.
+Added the ability for the user to change his timezone according to his needs.
+Added the ability to the admin to login as any user on the system directly via the admin panel.
+Added the ability to enable only the One time payment or Recurring or Both from the admin panel.
+Replaced Account Details page with 2 new separate pages: Account Payments and Account Logs.
+Added Account Package page where the user gets more details about his current package his upgrading possibilities.
+Reworked parts of the admin panel look making it more user friendly, visually pleasing and fixing other visual bugs.
+Reworked the Paypal Recurring payments to automatically accept the first payment instead of waiting 5-10 minutes until its processed.
+Implemented pages categories.
+Reworked and improved the pages system.
+Implemented "Resources center" where you can see the most popular pages and categories for all the pages.
+Refactored the look and function of the Admin Page Create / Update pages and included the ability to have hidden pages (not be shown in the footer or top menu).
+Restructured the Account settings page.
+Now the datepicker is fully translatable as well.
+Improve the email sending feature by adding the "Alternative body" to improve the email receiving rates (Thank you Kevin for the suggestion).
+Implemented 2 extra custom fields for the invoice system. Helpful when the provider must include extra details in the Invoice.
+Performance optimization for all statistics related charts and queries.
+Improved Stripe payments formatting for currencies which are considered "zero-decimal currencies" (ex: JPY)
+Fixed the way tooltips show on Switch controls (on/off).
+Fixed last activity field of the user not being updated properly.
+Fixed preview iframe not updating properly if using a custom domain.
+Many other visual improvements and bugfixes.
+Update 4.3.0 - 8 November, 2019
+
+Added Multi Domain feature for Biolink Pages and URL Shorteners.
+Admins are now able to add Custom Domains from the admin panel for their users to choose from.
+Google Safe Browsing API Implemented.
+Spotify Embed: Added "show" and "episode" to be automatically detected and embedded.
+Links will now be able to contain UTF8 characters when shortening them.
+Implemented Admin User Create feature.
+Implemented Blacklisted Keywords feature in the Admin Panel to automatically block the usage of certain keywords when trying to set a custom short url.
+Implemented the ability to turn off the Payment System completely from the admin panel.
+Fully reworked user Email Activation to support any type of emails ( ex: emails with john+doe@test.com ).
+The language that a visitor selected will stick to his account after he creates one for better continuity.
+Deleting a Package from the Admin Panel which has active Subscribers will trigger cancellation of all of its Subscribers but still keep their Package features until the end of their paid term.
+If a user upgrades or changes his current Package, the old Package will automatically get cancelled on the payment gateway as well.
+Improved readability in some places of Date strings with a more human readable format (ex: 9 Nov, 2019 instead of 2019-11-09 ).
+Numerous bugfixes and other small improvements.
+Update 4.2.0 - 4 October, 2019
+
+Invoicing System Implemented.
+Implemented Admin Links management page.
+Replaced Email Templating of Activation and Reset Password Email and made them editable from the language file to make them multilangual ready.
+Implemented user based language change ( good for deciding what language to use when sending mails to the user ).
+LostPassword now sends user language based mails.
+ResendActivation now sends user language based mails.
+Login, Register, Lost Password, Resend Activation, Reset Password pages now are detached from the header and footer for a better UI and UX.
+Register page completely redone and improved.
+Login page completely redone and improved.
+Lost Password page completely redone and improved.
+Resend Activation page completely redone and improved.
+Reset Password page completely redone and improved.
+Biolink Links will not have the actual location url when clicking on a button instead of the Shorted url for the specific url because Instagram does not like URL's that are shortened because they have a higher chance of getting banned.
+Many overall UI and UX improvements.
+Many overall code cleanup and performance improvements.
+Added the total amount of users assigned to a package in the Package list admin page.
+Added Gravatar of the User to display in his account settings page and in the menu.
+Fix problem that can appear on users which have Packages that do not exist / get deleted.
+Now when a biolink gets deleted all of it's sub links get deleted as well.
+Fixed language switcher redirection issues when product is installed on a subfolder.
+Update 4.1.0 - 29 August, 2019
+
+Added Phishtank API Integration to combat phishing sites being used.
+Added the ability to blacklist domains from the admin panel.
+Added Link Scheduling as an optional Package Feature.
+Added Verified Checkmark as an optional Package Feature for Biolink pages.
+Added Spotify Embed Track or Album into Biolink Page.
+Added Visual Icon Picker for Biolink Pages Links Icons.
+Improved Biolink Embeds styling and responsiveness.
+Fixed Header Ads (set from the admin panel) not showing up.
+Updated to last version of FontAwesome.
+Other improvements in the background.
+Update 4.0.1 - 26 August, 2019
+
+Biolink Links now can be ordered from a small view ( mobile ) as well.
+Fixed rare IP parsing problem on the Biolink page.
+Fixed Shorted links scheduling not working properly.
+Improved redirection when deleting / creating a Link inside of Biolink.
+Biolinks Settings Custom Backgrounds will not be accessible anymore to users that do not have access.
+Dashboard Package Widget: Will not say that the Free package has an expiration date anymore.
+Update 4.0.0 - 24 August, 2019
+
+The whole product rewritten from scratch.
+Recurring Payments with Paypal & Stripe.
+One Time Payments with Paypal & Stripe.
+A user can have multiple Projects.
+A project can have multiple Biolink Pages & Short Urls.
+The product now has an integrated URL Shortener.
+Much more advanced statistics on the URL Clicks.
+Highly Customizable Biolink Page.
+Highly Customizable Biolink Links.
+Whole new Admin Panel.
+Update 3.0.4 - 9 May, 2019
+
+Added DatePicker to User Edit Pro Due Date field.
+Stripe payment field is now an input where the user can choose the amount of points he want ( instead of a dropdown ).
+Update 3.0.3 - 6 May, 2019
+
+Fixed Paypal payment bug where the title of the site is too long and would cause an error. Now it automatically trims to the limits set by Paypal.
+Fixed Safari bug where you would not be able so datepick on the statistics graph of the links.
+Fixed accessibility bug in paypal / stripe payments page.
+Fixed bug in normal captcha
+Added extra check for Registration and Account Settings on usernames to not be able to take on certain not allowed usernames ( ex: register, store, login..etc ).
+Login and Register pages will now hold the values previously entered if an error comes up. ( in case a field is entered incorrectly to not have to write all the values again ).
+Update 3.0.2 - 4 May, 2019
+
+Index visual improvements.
+Update 3.0.1 - 3 May, 2019
+
+Bugfix Safari datepicker for scheduling.
+Bugfix Bit.ly option showing up even when it shouldn't.
+Small other code cleanup, improvements and visual fixes.
+Update 3.0.0 - 1 May, 2019
+
+Implemented Link Scheduling option for users.
+Redesigned the whole index presentation page.
+Implemented Google Analytics Integration option for users.
+Implemented Custom Uploaded Profile Backgrounds option for users.
+Added a new badge with the status of the user to the admin users management page
+Paypal payments important bugfix.
+Other small visual and text translation improvements.
+Update 2.9.0 - 13 April, 2019
+
+Bit.ly Auto Shorten Integration with Pro Accounts ( configurable via the admin panel ).
+Implemented New Admin Panel option to add extra allowed extensions to URLs. Like "mailto:", "tel:"..etc.
+Added Default Language Selector in the Admin Panel Website Settings.
+Admin Dashboard Added More Widgets Statistics with beautiful charts.
+Implemented full custom configuration for decimal and thousands separator. (configurable from the language file ).
+Implemented full custom configuration for custom DateTime Format output of dates. ( configurable from the language file ).
+Implemented Full RTL Support ( configurable from the language file ).
+Internal Pages ( created from the admin panel ) will no longer open a new tab. Only the external links will.
+Improved feel and visual on different parts of the product.
+Behind the scenes changing of the handling of users last activity of the account.
+Fixed bug when first uploading a logo to the website settings and potentially throwing an error.
+Tweak on the dashboard after submitting a new link and refreshing the page would add the link again, now it will not do that anymore.
+Now Not Found pages will return a 404 Status Code instead of 200.
+Fixed Potential Bug where Links Admin Management Page and Users Admin Management Page would not show results on some cases.
+Emoji's are now accepted in the Title of the links.
+Update 2.8.1 - 9 March, 2019
+
+Added new field in admin panel: Pro Due Date Email.
+Fixed potential problem with the Visual Editor in Pages Management.
+Update 2.8.0 - 6 March, 2019
+
+Implemented PRO TRIAL ACCOUNTS ( configurable through the admin panel ).
+Fully Reworked Admin Users Management List.
+Fully Reworked Admin Links Management List.
+Fully Reworked Admin Payments Management List.
+New "View User" Page in the Admin Panel.
+Added new 4 card statistics in the admin dashboard.
+Replaced the native color picker with a custom one thats more functional and looks better and works in Safari too ( compared to the native picker ).
+Reworked the Admin Website Statistics page
+Sale Statistics.
+Improved Performance and Code Cleanup in almost all Admin Pages.
+Fixed: Error showing up in some cases where users go back after clicking on a link.
+Reworked the Admin Pages Management page.
+Upgraded Bootstrap library to the latest version.
+Upgraded TinyMce library to the latest version.
+Reworked the structure of the Admin Website Settings Page.
+Fixed: Notice in the Account Settings page about the fb_pixel.
+Update 2.7.1 - 12 February, 2019
+
+Fixed link limitation being applied on Pro users.
+Update 2.7.0 - 8 February, 2019
+
+Custom Colors are now implemented for users instead of a defined set of colors.
+New Link Preview: When creating a new link, you will now have a live preview of what it would look like.
+Custom Date Range Selector Added for Hits Statistics Chart.
+Facebook Pixel Integration Added.
+Added option to enable it only for Pro Users or Normal Users too.
+Added cool indicator of current chosen color in the Dashboard Links List.
+Dashboard: Drasticly Improved Speed of Database executions.
+Profile Pages: Drasticly Improved Speed of Database executions.
+Stripe Checkout Page Improved with extra details for the user on checkout.
+Fixed: Bug on Account Settings Name field where it would not save properly in certain cases.
+Fixed: Visual bug on Dashboard Sidebar when the Pro Badge would look deformed when the Name of the account is too long.
+Fixed problem with profile buttons not being able to be clicked on some android devices.
+Update 2.6.0 - 26 January, 2019
+
+Implemented New Statistics for each links with chart stats of the last 30 days of total hits per day.
+Added New Feature - Limitation of Links for accounts that are not Pro ( this feature can be seen in the Website Settings ).
+Users that are Pro and their Pro expires no longer have the Colored links on their profile.
+Improved and changed Url Parser to accept multiple types of urls.
+Fixed problem with Facebook login where email is not provided by Facebook because it is not existing in the specific account.
+Update 2.5.1 - 11 January, 2019
+
+Fixed instagram and facebook social logins.
+Fixed security bug.
+Update 2.5.0 - 12 December, 2018
+
+Replaced the one time purchases with a subscription based system.
+Admins have the option to set the pricing of the Monthly / Yearly plan from the admin panel.
+Admins have the option to manually add Pro members with the Users Management page.
+Admins can set certain features only available to Pro members or to all users from the admin panel.
+New pro page has been added where users can get the Pro package subscription.
+New pro badge has been added to the dashboard if a user is Pro.
+Improved aesthetics of the index page.
+Profile Buttons now have the chosen color ( instead of white with hover ).
+Store page now shows all users transactions.
+Store page now only shows the payment methods which are available.
+Updated all libraries used in the script.
+Now the no funds error message when user is trying to purchase is more friendly and displays as an info message.
+Update 2.4.2 - 9 November, 2018
+
+Improved the paypal checkout experience.
+Implemented paypal mode switcher in the admin panel (sandbox/live).
+Implemented the ability to set a logo from the admin panel.
+Update 2.4.1 - 29 September, 2018
+
+Fixed google analytics feature.
+Update 2.4.0 - 28 September, 2018
+
+Admin dashboard menu redesigned.
+Imlemented login via username OR email.
+Other small visual improvements.
+Update 2.3.0 - 10 September, 2018
+
+Visual improvements and changes to the homepage.
+Visual improvements and changes to the public profile pages.
+Removed the preview iframe from the dashboard.
+Update 2.2.3 - 19 July, 2018
+
+Added transactions list of that specific user when you are in the User Edit section.
+Added option to change the current points of any user through the User Edit in the Admin Panel.
+Improved security on login.
+Bugfix on the Admin User Edit not being able to change the 'no ads' package status.
+Update 2.2.2 - 7 July, 2018
+
+Improved overall security of the script.
+Update 2.2.1 - 27 June, 2018
+
+Small phpMailer change to the charset encoding to UTF-8.
+Update 2.2.0 - 25 June, 2018
+
+Added CSRF Protection to all the logged in forms.
+Removed the IP logging of the user.
+Added the option for the user to delete his account.
+Auto login after registration added.
+Small changes to the design in the dashboard.
+The user can now see all the data that the script is storing and delete it any time.
+Update 2.1.5 - 19 June, 2018
+
+Fixed bug when html could not be copy pasted into pages (admin panel).
+Fixed bug some translation bugs on Account Settings page.
+Update 2.1.4 - 18 June, 2018
+
+Fixed bug when admins could not delete users from the admin panel.
+Update 2.1.3 - 17 June, 2018
+
+Fixed bug when sometimes when you logout of one tab and try to access previous pages, it would redirect infinitely.
+Fixed potential recaptcha problems from old versions.
+Update 2.1.2 - 18 May, 2018
+
+Fixed admin not being able to delete pages.
+Update 2.1.1 - 18 May, 2018
+
+Fixed social logins not working properly.
+Update 2.1.0 - 18 May, 2018
+
+Reworked the persistent login system.
+Fixed phpmailer library not implemented correctly.
+Update 2.0.0 - 18 May, 2018
+
+Added SoundCloud Music Parser If you add a link for a SoundCloud Song, in the Profile Page it will automatically embed that SoundCloud Song.
+Added YouTube Video Parser If you add a link to a YouTube Video, in the Profile Page it will automatically embed that YouTube Video.
+Added Twitch Channel Parser If you add a link to a Twitch Channel, in the Profile Page it will automatically embed that Twitch Channel.
+Redesigned the homepage.
+Redesigned the admin panel.
+Reworked overall feel and look of all the pages outside of the logged in accounts.
+Added the NoAds Package to the Store for people who want to remove their ads from the site and from the profile page.
+SMTP Settings Reworked with multiple options to set up the SMTP.
+Account Settings Page Reworked.
+Added the possibility for the user to change his Username.
+The whole passwords system reworked.
+Admin Payments List Page added.
+Admin Dashboard Page Reworked.
+Admin Statistics Page Reworked.
+Admin Pages Page Management Reworked.
+Bootstrap upgraded to v4.1.0.
+FontAwesome upgraded to v5.
+Admin Panel Pages Management now they won't strip html tags causing things to not work properly once custom html is inserted.
+Dashboard Cards now can be dragged by a specific icon, to fix user experience on mobile phones.
+Many other bugfixes on the overall product.
+Update 1.6.1 - 23 April, 2018
+
+Fixed login and registration bug after the previous update.
+Update 1.6.0 - 20 April, 2018
+
+Added Store Colored Default option where the admin can set if new users will have the Colored option enabled by default or not.
+Updated the bootstrap library.
+Other small improvements and changes.
+Update 1.5.5 - 28 March, 2018
+
+Fixed small bug with Recaptcha Library.
+Update 1.5.4 - 26 March, 2018
+
+Removed the "@" sign from the profile pages URL.
+Update 1.5.3 - 22 March, 2018
+
+Fixed Facebook Login issue with the new Facebook Login Strict URL Announcement.
+Update 1.5.2 - 12 March, 2018
+
+Improved the design and feel of the homepage.
+Improved some other parts of admin panel.
+Admin is now able to edit users plan manually as well.
+Update 1.5.1 - 18 February, 2018
+
+Improved profile page responsiveness.
+Improved tooltips for the admin panel.
+Improved admin panel with a better feel / usability.
+Update 1.5.0 - 14 February, 2018
+
+Implemented instagram login.
+Redesign of the homepage.
+Design improvements to the dashboard.
+Updated all the dependencies.
+Fixed a lot of small issue.
+Update 1.4.0 - 24 January, 2018
+
+Implemented stripe payment gateway.
+Other small improvements.
+Update 1.3.0 - 20 December, 2017
+
+Added the option to reorder links from the dashboard (Drag and drop reorder).
+Update 1.2.1 - 28 October, 2017
+
+Fixed paypal not going to live mode on checkout.
+Now facebook login redirects to dashboard as well.
+Update 1.2.0 - 25 October, 2017
+
+Fixed potential bug when uploading avatars on some web hosts.
+Fixed potential bugs with SMTP Mailing on newer PHP Versions.
+Now activation emails send a clickable link to activate the user account.
+Now after activation, a custom message will be shown and the user will be redirected to the login page.
+Fixed some potential bugs when deleting users from the admin panel.
+Removed some unnecessary files.
+Added the profile link of the user in the Menu dropdown.
+Update 1.1.1 - 15 October, 2017
+
+Added new package to purchase for users Colored link.
+Added preview of the profile on the dashboard’s sidebar.
+Other small improvements.
+After you login, it now redirects you directly to the dashboard.
+Update 1.0.1 - 11 October, 2017
+
+Fixed some bugs on the homepage.
+Initial release - 10 October, 2017

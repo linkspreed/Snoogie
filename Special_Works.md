@@ -1,4 +1,8 @@
 # 13.10.2022 
+  - We have adjusted the Free Unlimited plan on Snoogie according to the new features. 😍 
+  - Existing users will automatically receive the new functions so that everyone can benefit from version 25.0.0. 🚀
+
+# 13.10.2022 
   - We're doing various checks and minor work on Snoogie now :)
 
 # 13.10.2022 

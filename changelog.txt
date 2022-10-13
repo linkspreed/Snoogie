@@ -1,4 +1,4 @@
-Update 25.0.0 - 7 October, 2022
+Update 25.0.0 - 13 October, 2022
 
 Implemented statistics latest entries page.
 Implemented biolink OpenSea NFT block.

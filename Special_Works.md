@@ -1,4 +1,7 @@
 # 13.10.2022 
+  - I'm so proud to announce that Snoogie 25.0.0 is now available for everyone.
+
+# 13.10.2022 
   - The launch begins now.
   - Version 25.0.0 for Snoogie is coming soon.
 

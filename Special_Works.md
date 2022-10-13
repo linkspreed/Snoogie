@@ -1,3 +1,7 @@
+# 13.10.2022 
+  - The launch begins now.
+  - Version 25.0.0 for Snoogie is coming soon.
+
 # 13.10.2022
   - The code and servers are ready to launch v25!
 

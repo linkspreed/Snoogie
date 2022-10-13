@@ -1,4 +1,7 @@
 # 13.10.2022 
+  - We're doing various checks and minor work on Snoogie now :)
+
+# 13.10.2022 
   - I'm so proud to announce that Snoogie 25.0.0 is now available for everyone.
 
 # 13.10.2022 

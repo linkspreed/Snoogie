@@ -1,3 +1,375 @@
+Update 25.0.0 - 7 October, 2022
+
+Implemented statistics latest entries page.
+Implemented biolink OpenSea NFT block.
+Implemented the ability to see the source of registration of an account (social, API, normal).
+Implemented new payments webhook in the admin panel.
+Implemented tools searchbox.
+Implemented tool page similar tools suggestion entries.
+Implemented BMP to WEBP, GIF, ICO, PNG, JPG tools
+Implemented GIF to JPG, WEBP, ICO, PNG, BMP tools.
+Implemented ICO to JPG, GIF, PNG, WEBP, BMP tools.
+Implemented roman numerals to numbers tool.
+Implemented numbers to roman numerals tool.
+Implemented gallons to litters (Imperial + US) tool.
+Implemented liters to gallons (Imperial + US) tool.
+Implemented reverse IP lookup tool.
+Implemented JPG to WEBP, GIF, ICO, PNG, BMP tools.
+Implemented WEBP to JPG, GIF, ICO, PNG, BMP tools.
+Implemented PNG to JPG, GIF, ICO, WEBP, BMP tools.
+Implemented Kg to Lb converter tool.
+Implemented Lb to Kg converter tool.
+Implemented Mph to Kph converter tool.
+Implemented Kph to Mph converter tool.
+Implemented signature generator tool.
+Implemented Km to Mi converter tool.
+Implemented Mi to Km converter tool.
+Implemented 11 new SHA generator tools.
+Implemented MD2 generator tool.
+Implemented MD4 generator tool.
+Implemented Whirlpool generator tool.
+Reworked, improved and fixed a few already existing tools.
+Reworked the admin panel user view page to see all the details available for a user account.
+Improved upload type fields: now it will specify the maximum size allowed.
+Updated some external libraries to their latest versions.
+Now you can install the product and use it on PHP 8.1 as well (please report if there are any related bugs).
+Blog posts featured image is now considered the opengraph image as well.
+Blog posts pages now also have a sidebar with widgets, for consistency purposes.
+Improved the QR code reader to work better on different browsers.
+Improved the API for QR Codes, now you can specify the style of the QR as well.
+Improved the duplication system, now it will also duplicate the assets (images, videos) as well.
+Multiple code cleanups & improvements throughout the product.
+Fixed specific email sending with default webhost settings for Email notifications.
+Fixed Two Factor Auth not working in some cases.
+Fixed Vcard export not properly displaying some UTF8 characters.
+Fixed Biolinks settings iconpicker not displaying in certain cases.
+Fixed biolink block scheduling not working for embeddable blocks.
+Fixed QR code inner color being reversed with outer color.
+Fixed biolink background being removed automatically in certain cases.
+Update 24.1.0 - 14 July, 2022
+
+Implemented new QR code styles: dot & round.
+Implemented new payments webhook in the admin panel.
+Custom domains can not be submitted twice now, if a custom domain is already approved.
+Fixed biolink image uploads issues when using the offload plugin.
+Fixed links passwords not properly re-saving when you edit a link that has a password set.
+Update 24.0.0 - 10 July, 2022
+
+Implemented the ability to enable/disable the QR codes system from the admin panel.
+Implemented the ability to enable/disable the Biolink system from the admin panel.
+Implemented PayPal link generator tool.
+Implemented text size calculator tool.
+Implemented BBCode to HTML converter tool.
+Implemented HTML tags remover tool.
+Implemented decimal converter tool.
+Implemented octal converter tool.
+Implemented morse converter tool.
+Implemented ASCII converter tool.
+Implemented fahrenheit to celsius converter tool.
+Implemented celsius to fahrenheit converter tool.
+Implemented new payments webhook in the admin panel.
+Implemented the ability to duplicate vcard & file links.
+Improved all file input fields to better looking ones.
+Improved landing page content and web vitals, making it load faster.
+Fixed image optimizer tool not opening.
+Fixed biolink themes background related issues.
+Fixed duplication of links while being logged in as a team member.
+Fixed Vcard Block avatar not being deleted when requested.
+Fixed image uploading bugs on biolink blocks.
+Update 23.0.0 - 3 July, 2022
+
+Implemented the Dynamic File Links system.
+Implemented the Dynamic Vcard Links system.
+Implemented text separator tool.
+Implemented email extractor tool.
+Implemented URL extractor tool.
+Implemented image optimizer tool.
+Added language code input for the Text to speech tool.
+Implemented Links API for creating & updating shortened links.
+Implemented Teams API for managing everything Teams system related.
+Implemented Google Maps Block.
+Implemented Crypto.com payment processor for the Payment Blocks plugin.
+Implemented Paystack payment processor for the Payment Blocks plugin.
+Implemented Razorpay payment processor for the Payment Blocks plugin.
+Implemented the ability to set an avatar for the Vcard Block.
+Reworked the Affiliate system earnings percentages. Now you can set the percentage on a per-plan basis.
+Reworked the login screen when using two factor authentication for a cleaner look.
+Reworked the Affiliate system referral URL to work on any kind of internal URL.
+Refactored a lot of code, resulting in less translation strings for common recurring words.
+Refactored all deletion modals for consistency purposes, resulting in less code and less translations.
+Improved tracking performance when a user clicks on a biolink block.
+Improved a lot of backend code and removed repetitive code.
+Added a sidebar to the blog post page for consistency and looks purposes.
+Blacklisted domains for URL submissions can now block IP domains as well.
+Fixed biolink block statistics not working properly.
+Fixed guests payments deletion not working for the Payment Blocks plugin.
+Update 22.1.0 - 3 June, 2022
+
+Implemented the ability to check Cities statistics per link without the need to Click on a particular country.
+Improved blog post featured image, not the height is limited for consistency purposes.
+Fixed QR codes download not working when the name contains symbols.
+Fixed 2 Admin panel Biolink Theme system bugs related to background images/videos.
+Fixed Facebook Embed not working on Safari.
+Update 22.0.0 - 28 May, 2022
+
+The logo, favicon & opengraph of the site will have to be re-added after the update due to an upgrade to the related handling system.
+Implemented the new Blogging system.
+Can be enabled/disabled from the admin panel.
+All posts & categories are added to the sitemap.
+Admin panel blog posts management page with filters, pagination & bulk deletion features.
+Admin panel blog posts categories page with filters, pagination & bulk deletion features.
+Good looking public blog page with recent posts, categories widget & popular posts widget.
+Implemented the ability to filter, paginate & bulk delete the admin panel pages system.
+Implemented the ability to filter, paginate & bulk delete the admin panel pages categories system.
+Implemented the ability to enable/disable auto language detection via the admin panel.
+Implemented the ability to set a different logo base on the theme style (dark or light).
+Implemented the ability to set a different logo for emails.
+Implemented the ability to set custom images for Biolink Themes from the admin panel.
+Implemented the ability to upload and use mp4 videos as Biolink page backgrounds.
+Implemented the ability to control the size of the Socials Block.
+Implemented the ability to configure scheduling settings for all types of biolink blocks.
+Implemented the ability to configure display settings based on countries for each biolink blocks.
+Implemented the ability to configure display settings based on device type for each biolink blocks.
+Implemented the ability to configure display settings based on browser language for each biolink blocks.
+Implemented the ability to configure display settings based on operating system for each biolink blocks.
+Implemented Google safe browsing checker tool.
+Implemented Binary converter tool.
+Implemented Hex converter tool.
+Implemented Google cache checker tool.
+Implemented URL redirect checker tool.
+Implemented YouTube timestamp link generator tool.
+Implemented UTM Link generator tool.
+Implemented Whatsapp Link generator tool.
+Implemented YouTube thumbnail downloader tool.
+Implemented Mailto link generator tool.
+Implemented the ability to set meta description and keywords for each tool from the language system.
+Implemented the ability to reset link statistics.
+Improved performance of all pages which use Projects data.
+Reworked and improved the Sitemap to include more pages, dynamically.
+Improved the pages resources center UI & fixed small bugs.
+Reworked the Paddle implementation to work with the new API changes.
+Fixed text to speech tool download not properly working.
+Update 21.0.0 - 22 April, 2022
+
+Implemented the new Tools system with 35 tools.
+Implemented the ability to run ads on the tools system.
+Implemented the ability to only enable the tools for users or guests.
+Implemented DNS lookup tool.
+Implemented IP lookup tool.
+Implemented SSL lookup tool.
+Implemented Whois lookup tool.
+Implemented Ping tool.
+Implemented MD5 generator tool.
+Implemented Base64 converter tool.
+Implemented Base64 image converter tool.
+Implemented URL converter tool.
+Implemented Lorem ipsum generator tool.
+Implemented Markdown to HTML tool.
+Implemented Case converter tool.
+Implemented UUID v4 generator tool.
+Implemented Bcrypt generator tool.
+Implemented Password generator tool.
+Implemented Password strength checker tool.
+Implemented Slug generator tool.
+Implemented HTML minifier tool.
+Implemented CSS minifier tool.
+Implemented JS minifier tool.
+Implemented User agent parser tool.
+Implemented Website hosting checker tool.
+Implemented Character counter tool.
+Implemented URL parser tool.
+Implemented Color converter tool.
+Implemented HTTP headers lookup tool.
+Implemented Duplicate lines remover tool.
+Implemented Text to speech tool.
+Implemented IDN punnycode converter tool.
+Implemented JSON validator & beautifier tool.
+Implemented QR code reader tool.
+Implemented Meta tags checker tool.
+Implemented Exif reader tool.
+Implemented SQL formatter/beautifier tool.
+Implemented HTML entity converter tool.
+Reworked and improved the language & dark mode switcher.
+Implemented the TikTok pixel in the Pixels system.
+Implemented the ability to receive email notifications when new data is submitted to the Mail & Phone collector block.
+Fixed Mollie annual payments not processing correctly.
+Fixed & improved the new multi-language pages feature (admin panel).
+Update 20.0.0 - 8 April, 2022
+
+Implemented an anti-phishing system code for emails sent out to users by the system.
+Implemented RTL support for emails & improved the email templates looks.
+Implemented the ability to create multi-language pages from the admin panel.
+Implemented the ability to only display verified or all bio link pages for the Directory page.
+Resend activation page will now be disabled if the email confirmation setting is disabled.
+Contact form, you can now reply-to via your email client directly via the sent email.
+Fixed admin impersonation of user logout not working properly.
+Fixed URL slugs being able to have slashes in them and producing 404 not found when accessed.
+Fixed potential cookie consent CSS not loading on some servers.
+Fixed reset password not working for some particular emails & not logging the user in after the password change.
+Fixed bug when logging in with a custom language set, yet the user has another language to his account.
+Other minor fixes, clean-ups and improvements.
+Update 19.0.0 - 30 March, 2022
+
+Implemented the Teams system & released the 👨‍💻 Teams Plugin.
+Implemented duplication feature bio link pages (except image content).
+Implemented duplication feature shortened URLs.
+Implemented duplication feature for all bio link block types.
+Implemented cookie consent logging feature to store proof of given consent.
+Implemented cookie consent logging export to CSV.
+Implemented cookie consent settings link in the footer, so that people can change their given consent at all times.
+Implemented cookie consent on biolink pages as well.
+All user sessions will be logged out if the account changes password (security improvement).
+All user sessions will be logged out if the account changes password (security improvement).
+Fixed language preference not persisting when doing certain actions while logged in.
+Fixed language preference of a user being reset when re-logging in.
+Update 18.0.0 - 16 March, 2022
+
+Implemented Paddle payment gateway for one-time payments.
+Implemented the ability to generate discount/redeemable codes in bulk via the admin panel.
+Implemented new dedicated code redeeming page.
+Fully reworked the account related pages for better looks and consistency over the altumcode products.
+Improved look of the footer & admin panel settings page.
+Fixed language switching bug when adding new bio link blocks.
+Update 17.0.0 - 2 March, 2022
+
+Released the new & highly requested 🤑️ Payment Blocks Plugin!
+Implemented the new biolink block types for Donations, Paid Services & Digital Products.
+Implemented Stripe & Paypal as payment processors.
+Implemented the new payment processors management system.
+Implemented the new guests payments management system.
+Implemented the new guests payments statistics page.
+Implemented email notifications for sales, downloadable items, exporting and filtering capabilities for the new system.
+Implemented Cookie Consent functionality, highly configurable via the admin panel and translation system.
+Implemented Discord login functionality, configurable via the admin panel.
+Implemented "open in new tab" enable/disable feature for external links created via the admin panel.
+Default font switched to the default sans-serif stack.
+Improved forms and dropdown icon consistency.
+Fixed pages where ads would show 2 times.
+Fixed phone collector and mail signup blocks Thank you URLs not working.
+Fixed border color not properly saving for a few block types.
+Fixed payment generation issue in some special cases for a few payment gateways.
+Multiple small visual improvements and bugfixes.
+Update 16.1.0 - 15 February, 2022
+
+Implemented link shortener Operating System targeting.
+Implemented the ability to enable/disable a language via the admin panel.
+Implemented the ability to filter translated, non translated and all strings when editing a language via the admin panel.
+Bio link pages can now be exported to PDF via the browser native functionality.
+Fixed various new translation system issues.
+Small other visual improvements.
+Product rebranding from phpBiolinks to 66biolinks.
+Update 16.0.0 - 8 February, 2022
+
+ℹ️ If you want to migrate your translated languages to the new system, use the migration tool.
+Fully reworked the Languages & Translations system for much better performance, handling and usability.
+Implemented the ability to edit and translate Languages from the admin panel.
+Implemented Crypto.com one-time payment gateway.
+Implemented a fully-featured biolink pages themes system. Themes can be created from the admin panel.
+Implemented the ability to set Custom CSS / JS for each biolink page, toggle-able via plan features.
+Implemented user registration blacklist by country.
+Emojis in URL alias are now allowed for Shortened URLs and Biolink pages.
+Reworked the admin panel footer (added language switcher + theme switcher).
+Reworked the footer of the whole app.
+Reworked the plugin system so plugins won't lose their state anymore when updating.
+Improved UI for all tables on mobile.
+Improved UX workflow bug when skipping trial & introducing billing details.
+Improved responsiveness for account payments & logs pages.
+Improved color contrast in Dark mode.
+Fixed UI alignment issues on mobile.
+Fixed payment generation bug when using discount codes in some cases.
+Fixed admin panel settings UI menu bug.
+Fixed & improved many other small UI issues.
+Update 15.0.1 - 4 January, 2022
+
+Fixed PayPal QR Code template generation not working.
+Fixed PayPal block issue with the Donation type.
+Fixed existing QR Code download not working.
+Fixed Phone Collector filter not working for the data page.
+Fixed QR code creation fields not enabled bug.
+Fixed Dashboard bio link pageviews widget not reflecting the proper value.
+Update 15.0.0 - 2 January, 2022
+
+Now bio link pages can only be verified from the admin panel, as a result of a poll from customers.
+Implemented PayPal payments block.
+Implemented phone collector block.
+Implemented PayPal QR code generator.
+Implemented the ability to export QR codes to PNG, JPG & WEBP as well.
+Implemented a Directory page of bio link pages (can be enabled from the admin panel -> links).
+Implemented a built-in Contact form page (can be enabled from the admin panel -> website settings -> email notifications).
+Implemented the ability to skip a trial when paying for a plan.
+Implemented the ability to block registrations from a particular email domain, from the admin panel.
+Implemented the ability to purge the cache from the admin panel.
+Implemented the ability to set the default data order (asc, desc) the admin panel.
+Implemented the ability to set the default pagination results the admin panel.
+Implemented the ability to set a custom 404 page from the admin panel.
+Implemented the ability to also export to PDF/print data from tables in the admin panel.
+Admin Codes - Implemented the ability to paginate, filter, export data.
+Admin Taxes - Implemented the ability to paginate, filter, export data.
+Improved the caching system of the biolink pages to avoid certain problems.
+Improved the admin panel -> website settings -> main fields, separated them for more clarity.
+Improved the file upload error handling.
+Improved the mail collector block settings form.
+Improved the UX of impersonating a user, as an admin.
+Now reCaptcha and hCaptcha will follow the language that the user currently uses.
+Other small yet many improvements of the whole system.
+Fixed bio link pages URL alias allowed characters problem.
+Fixed a few bugs related to the system.
+Update 14.0.0 - 20 November, 2021
+
+Implemented Yookassa one-time payments system.
+Reworked the landing page for a better look.
+Reworked the admin panel announcements system.
+Implemented the ability to see the list of referred users of a particular user from the admin panel.
+Implemented the ability to set custom css and custom javascript for biolink pages only from the admin panel.
+Other bugfixes & small improvements.
+Update 13.0.0 - 13 November, 2021
+
+Implemented PayU one-time payments system.
+Implemented RazorPay one-time & recurring payments system.
+Implemented Mollie one-time & recurring payments system.
+Implemented Paystack one-time & recurring payments system.
+Implemented an Auto Cleanup functionality for old, inactive users. Can be activated and configured in the admin panel.
+Implemented email notifications for old & soon-to-be-deleted users, if the Auto Cleanup functionality is enabled.
+Implemented QR Code generator background transparency slider.
+Fixed font picker not working properly for biolink pages.
+Update 12.0.0 - 3 November, 2021
+
+Implemented the new highly customizable QR Codes functionality (Create & keep track of multiple QR codes).
+Implemented QR codes pre-built customizable templates (Text, URL, Phone, SMS, Email, Whatsapp, Facetime, Location, WiFi, Event, Crypto, Vcard).
+Implemented QR codes SVG export, gradient colors & many other customization options.
+Implemented QR codes admin panel management & statistics pages.
+Implemented QR codes API endpoint.
+Implemented & developed the new Image Optimizer Plugin -> Image Optimizer Plugin
+Implemented a new Data page, which will contain data from particular blocks that collect data (such as the mail block).
+Implemented Data API endpoint.
+Implemented the new QR Codes functionality.
+Implemented the birthday, job title & dynamic social links capabilities to the Pro Vcard Block.
+Implemented the ability to set the alt attribute for the image & image grid blocks, for accessibility & seo purposes.
+Implemented a new YouTube feed block, for the Ultimate Blocks Plugin.
+Implemented the ability to change the base font size of the whole biolink page.
+Implemented the ability to filter Projects results.
+Implemented the ability to export Projects to CSV/JSON.
+Implemented the ability to filter Domains results.
+Implemented the ability to export Domains to CSV/JSON.
+Implemented the ability to filter Pixels results.
+Implemented the ability to export Pixels to CSV/JSON.
+Implemented the Pixels API endpoint.
+Implemented biolink page pixels caching, for better performance.
+Implemented the ability enable/disable dofollow links for the biolink pages on a per-plan basis, via the admin panel.
+Implemented the captcha for biolink page mail (block) submission form.
+Implemented domain blacklist check against custom domains that are submitted by the user.
+Added more fonts to choose from for the biolink pages.
+Improved the invoices system, now the invoices are immutable.
+Improved the Pixels tracking success rate.
+Reworked the Redeemable Codes system. Redeeming is happening now only from the Checkout page.
+Discount/Redeemable codes can now be applied on a per plan basis (more flexibility).
+Reworked parts of how the taxes system is working in the admin panel.
+Reworked & improved the API documentation page.
+All the data tables are now ordered by the date, descending (previous ascending).
+All the new biolink blocks will not be added to the bottom (ascending order), instead of being randomly ordered.
+Fixed Call To Action block not fully working properly.
+Upgraded all composer dependencies to the latest version.
+Many other code cleanups, improvements and bugfixes.
 Update 11.1.0 - 9 September, 2021
 
 Implemented the ability to set border width, color and style for avatar blocks.

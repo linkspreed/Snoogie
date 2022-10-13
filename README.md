@@ -1,4 +1,4 @@
-# Biospreed ([Click to try 🚀](https://biospreed.tk/))
+#  <img align="left" alt="Snoogie" width="100px" src="https://snoogie.tk/uploads/logo/a4570f8f18bca2e1ee03772053b18494.png" draggable="false" /> ([Click to try 🚀](https://snoogie.tk/))
 
 Create your biopage 📃 quickly and easily with Biospreed. 🌱
 

@@ -1,9 +1,9 @@
-#  <img align="left" alt="Snoogie" width="100px" src="https://snoogie.tk/uploads/logo/a4570f8f18bca2e1ee03772053b18494.png" draggable="false" /> ([Click to try 🚀](https://snoogie.tk/))
+#  <img align="left" alt="Snoogie" width="300px" src="https://snoogie.tk/uploads/logo/a4570f8f18bca2e1ee03772053b18494.png" draggable="false" /> ([Click to try 🚀](https://snoogie.tk/))
 
-Create your biopage 📃 quickly and easily with Biospreed. 🌱
+Snoogie ☁️ - the biopage 💬 that accompanies you everywhere 🧡 and never lets you down.
 
-## **[Changelog 📃](https://github.com/linkspreed/Biospreed/blob/main/changelog.txt)** **Check out the full Biospreed changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Biospreed/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Biospreed besides development**
+## **[Changelog ☁️](https://github.com/linkspreed/Snoogie/blob/main/changelog.txt)** **Check out the full Snoogie changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Snoogie/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Snoogie besides development**
 
 
 <div align="center">

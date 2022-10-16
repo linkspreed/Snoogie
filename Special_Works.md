@@ -1,4 +1,7 @@
 ### 16.10.2022 (announcement Snoogie)
+- Make a few more small changes in **Snoogie**'s footer.
+
+### 16.10.2022 (announcement Snoogie)
 - Both plugins are currently in the beta phase.
 
 ### 16.10.2022 (announcement Snoogie)

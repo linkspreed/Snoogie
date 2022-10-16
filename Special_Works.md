@@ -1,4 +1,7 @@
 ### 16.10.2022 (announcement Snoogie)
+- The launch of the two plugins will start soon.
+
+### 16.10.2022 (announcement Snoogie)
 - We are currently working on a plugin for an affiliate and team function for **Snoogie** ^^
 
 # 13.10.2022 

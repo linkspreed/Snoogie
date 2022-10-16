@@ -1,4 +1,7 @@
 ### 16.10.2022 (announcement Snoogie)
+- Both plugins are currently in the beta phase.
+
+### 16.10.2022 (announcement Snoogie)
 - The launch of the two plugins will start soon.
 
 ### 16.10.2022 (announcement Snoogie)

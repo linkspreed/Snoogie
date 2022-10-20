@@ -1,4 +1,7 @@
 ### 20.10.2022 (announcement Snoogie)
+- The code for **Snoogie** v25.1.0 is ready for launch.
+
+### 20.10.2022 (announcement Snoogie)
 - We are releasing version 25.1.0 for **Snoogie** soon.
 
 ### 16.10.2022 (announcement Snoogie)

@@ -1,3 +1,24 @@
+Update 25.1.0 - 20 October, 2022
+
+Implemented color picker tool.
+Implemented number to words tool.
+Implemented file mime type checker tool.
+Implemented random number generator tool.
+Implemented text to upside down text tool.
+Implemented text to old english text tool.
+Implemented text to cursive text tool.
+Implemented list alphabetizer tool.
+Implemented reverse list tool.
+Implemented reverse words tool.
+Implemented reverse letters tool.
+Implemented emoji remover tool.
+Implemented list randomizer tool.
+Improved theme switcher: now the logo will automatically switch as well.
+Blog category pages now also show a sidebar with widgets, for consistency purposes.
+Fixed blog post not properly setting the opengraph image for social networks.
+Fixed a few bugs and small issues from the past update.
+
+
 Update 25.0.0 - 13 October, 2022
 
 Implemented statistics latest entries page.

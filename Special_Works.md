@@ -1,4 +1,7 @@
 ### 20.10.2022 (announcement Snoogie)
+- The server for Snoogie is ready. We will start the launch shortly.
+
+### 20.10.2022 (announcement Snoogie)
 - The code for **Snoogie** v25.1.0 is ready for launch.
 
 ### 20.10.2022 (announcement Snoogie)

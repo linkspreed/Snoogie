@@ -1,3 +1,6 @@
+### 20.10.2022 (announcement Snoogie)
+- We are releasing version 25.1.0 for **Snoogie** soon.
+
 ### 16.10.2022 (announcement Snoogie)
 - Make a few more small changes in **Snoogie**'s footer.
 

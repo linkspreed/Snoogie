@@ -1,3 +1,6 @@
+### 03.11.2022 (announcement Snoogie)
+- We're working on v26.0.0
+
 ### 20.10.2022 (announcement Snoogie)
 - **Snoogie**'s full changelog is now available for version 25.1.0 on Github.
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt

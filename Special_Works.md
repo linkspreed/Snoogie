@@ -1,4 +1,7 @@
 ### 04.11.2022 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v26.0.0. 😍
+
+### 04.11.2022 (announcement Snoogie)
 - We're working on the platform.
 
 ### 03.11.2022 (announcement Snoogie)

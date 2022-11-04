@@ -1,4 +1,7 @@
 ### 04.11.2022 (announcement Snoogie)
+- We are now starting the launch of v26.0.0.
+
+### 04.11.2022 (announcement Snoogie)
 - The servers are now ready for the launch of version 26.0.0 for **Snoogie**.
 
 ### 04.11.2022 (announcement Snoogie)

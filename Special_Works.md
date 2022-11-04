@@ -1,4 +1,7 @@
 ### 04.11.2022 (announcement Snoogie)
+- All new tools are now available. :D
+
+### 04.11.2022 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 

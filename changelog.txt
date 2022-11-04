@@ -1,3 +1,41 @@
+Update 26.0.0 - 4 November, 2022
+
+Implemented Turnstile Cloudflare captcha system.
+Implemented Image Slider Block for the Ultimate Blocks plugin.
+Implemented Timeline Block for the Ultimate Blocks plugin.
+Implemented Review Block for the Ultimate Blocks plugin.
+Implemented Alert Block for the Pro Blocks plugin.
+Implemented List Block for the Pro Blocks plugin.
+Implemented more customizability features for the FAQ block.
+Implemented the ability to change the referred by id of a user from the admin panel.
+Implemented the ability to have multiple phone numbers for Vcards (vcard links, vcard block & vcard QR).
+Implemented Text Alignment options for multiple blocks.
+Implemented user deletion email notification for admins.
+Implemented the ability to export domains data from the admin panel to CSV & JSON.
+Implemented a custom way to export data from the Data page to CSV dynamically.
+Implemented gravatar checker tool.
+Implemented Celsius to Kelvin tool.
+Implemented Fahrenheit to Kelvin tool.
+Implemented Kelvin to Celsius tool.
+Implemented Kelvin to Fahrenheit tool.
+Implemented Code Redeemed webhook in the admin panel.
+Now you can also upload Webp images in most image upload related forms.
+Image & Image Grid blocks now have the same hover animation if they contain URLs.
+Image & Image Grid blocks now have the option to open in new tab if they contain URLs.
+Improved performance of the whole script & cron job by not running queries to the database when not needed.
+Improved RSS feed block to support automatic thumbnails.
+Improved user experience on biolink block deletion, page is no longer reloaded.
+Improved the overall look of the colors & dashboard.
+The New Users Webhook now sends the source data of the creation of the user as well.
+The New Payments Webhook now sends the plan expiration date as well.
+Taxes set from the admin panel can now contain decimals.
+Cleaned up similar & redundant translations.
+Fixed block statistics page bugs.
+Fixed a few bugs and small issues from the past update.
+Fixed captcha for biolink pages settings not saving in the admin panel.
+Fixed item duplication when using offloaded storage (such as S3).
+
+
 Update 25.1.0 - 20 October, 2022
 
 Implemented color picker tool.

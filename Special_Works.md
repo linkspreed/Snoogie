@@ -1,4 +1,10 @@
 ### 05.11.2022 (announcement Snoogie)
+- We've added these blocks to the collection for free today:
+    - Timeline
+    - Review
+    - Image Slider
+
+### 05.11.2022 (announcement Snoogie)
 - The three new blocks are now available.
 
 ### 05.11.2022 (announcement Snoogie)

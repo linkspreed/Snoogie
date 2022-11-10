@@ -1,3 +1,7 @@
+### 10.11.2022 (announcement Snoogie)
+- Still in development yet - Discord API
+- https://user-images.githubusercontent.com/102324985/201189262-a67a1350-f239-453f-8f5e-fd72926d3472.png
+
 ### 05.11.2022 (announcement Snoogie)
 - We've added these blocks to the collection for free today:
     - Timeline

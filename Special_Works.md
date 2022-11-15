@@ -1,3 +1,6 @@
+### 15.11.2022 (announcement Snoogie)
+- We are working on many new updates - also on an update for **Snoogie** :D
+
 ### 10.11.2022 (announcement Snoogie)
 - You can now register on **Snoogie** with Discord!
 

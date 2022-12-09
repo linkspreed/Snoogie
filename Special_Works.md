@@ -1,3 +1,6 @@
+### 09.12.2022 (announcement Snoogie)
+- We're soon ready to pitch v27 of **Snoogie**.
+
 ### 15.11.2022 (announcement Snoogie)
 - We are working on many new updates - also on an update for **Snoogie** :D
 

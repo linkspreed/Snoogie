@@ -1,3 +1,22 @@
+Update 27.0.0 - 10 December, 2022
+
+Make sure to re-configure your plans settings for the new additional domains configuration.
+Implemented unconfirmed users auto deletion feature, configurable via the admin panel.
+Implemented verified biolinks filter in the admin panel -> links page.
+Implemented thank you redirect URLs for the payment blocks.
+Implemented qr codes duplication feature.
+Implemented a better color picker for all color type inputs.
+Implemented the ability to export to CSV, JSON, PDF the domains via the admin panel.
+Implemented the ability to show/hide the plans section on the homepage.
+Improved the border radius & style of the HTML components.
+Reworked additional custom domains, now you can select which additional domains are available on a per-plan basis.
+Reworked URL redirection for better UX: When you access a page without being logged in, now you will be able to login and automatically be redirected to your initial requested page.
+Reworked the admin panel language translation pages for better clarity and also performance.
+Reworked the Paddle implementation to work with the new API changes.
+Reworked all the Yes/No form selectors to switches, for better UX (1 less mouse click).
+Fixed blog category page bug.
+Multiple other code cleanups, fixes and improvements.
+
 Update 26.0.0 - 4 November, 2022
 
 Implemented Turnstile Cloudflare captcha system.

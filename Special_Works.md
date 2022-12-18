@@ -1,3 +1,6 @@
+### 18.12.2022 (announcement Snoogie)
+- We're working on **Snoogie**.
+
 ### 10.12.2022 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.

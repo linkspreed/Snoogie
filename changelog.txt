@@ -1,3 +1,18 @@
+Update 28.0.0 - 6 January, 2023
+
+Implemented Mollie payment processor for the Payment Blocks Plugin.
+Implemented the ability to set Meta keywords for blog posts.
+Implemented the ability to set Meta keywords for individual pages.
+Implemented the ability to toggle the publishing status for blog posts.
+Implemented the ability to toggle the publishing status for individual pages.
+Implemented Order by last updated time filters for all resources.
+Fully reworked the UI of the admin panel.
+Fully reworked the UI of the installation, documentation and updating process to match the new admin panel UI.
+Reworked the Pixels create/update pages to match the style of all my other products.
+Reworked the Domains create/update pages to match the style of all my other products.
+Reworked the Teams plugin to give more customizability regarding permission levels.
+
+
 Update 27.0.0 - 10 December, 2022
 
 Make sure to re-configure your plans settings for the new additional domains configuration.
@@ -16,6 +31,7 @@ Reworked the Paddle implementation to work with the new API changes.
 Reworked all the Yes/No form selectors to switches, for better UX (1 less mouse click).
 Fixed blog category page bug.
 Multiple other code cleanups, fixes and improvements.
+
 
 Update 26.0.0 - 4 November, 2022
 

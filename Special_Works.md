@@ -1,4 +1,7 @@
 ### 06.01.2023 (announcement Snoogie)
+- We are now starting the launch of v28.0.0.
+
+### 06.01.2023 (announcement Snoogie)
 - The servers are now ready for the launch of version 28.0.0 for **Snoogie**.
 
 ### 06.01.2023 (announcement Snoogie)

@@ -1,4 +1,7 @@
 ### 06.01.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 28.0.0 for **Snoogie**.
+
+### 06.01.2023 (announcement Snoogie)
 -  **Snoogie** gets a big update today - we are going to launch v28.0.0. 😍
 
 ### 06.01.2023 (announcement Snoogie)

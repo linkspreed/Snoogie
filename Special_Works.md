@@ -1,4 +1,9 @@
 ### 06.01.2023 (announcement Snoogie)
+- The launch of version 28.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 06.01.2023 (announcement Snoogie)
 - We are now starting the launch of v28.0.0.
 
 ### 06.01.2023 (announcement Snoogie)

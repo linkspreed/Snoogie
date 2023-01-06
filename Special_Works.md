@@ -1,3 +1,6 @@
+### 06.01.2023 (announcement Snoogie)
+- We're working on **Snoogie** v28.
+
 ### 18.12.2022 (announcement Snoogie)
 - We have updated this plugin: More Blocks Plugin
 

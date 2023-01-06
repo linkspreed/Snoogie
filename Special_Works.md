@@ -1,4 +1,7 @@
 ### 06.01.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v28.0.0. 😍
+
+### 06.01.2023 (announcement Snoogie)
 - We're working on **Snoogie** v28.
 
 ### 18.12.2022 (announcement Snoogie)

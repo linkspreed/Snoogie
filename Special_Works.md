@@ -1,3 +1,6 @@
+### 31.01.2023 (announcement Snoogie)
+- We have updated the Image Optimization Plugin for **Snoogie**!
+
 ### 06.01.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.

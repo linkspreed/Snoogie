@@ -1,4 +1,7 @@
 ### 31.01.2023 (announcement Snoogie)
+- We have updated the Advanced Blocks plugin on **Snoogie** so that each and every block can run flawlessly with the new version of the platform.
+
+### 31.01.2023 (announcement Snoogie)
 - We have updated the Image Optimization Plugin for **Snoogie**!
 
 ### 06.01.2023 (announcement Snoogie)

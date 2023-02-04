@@ -1,3 +1,6 @@
+### 04.02.2023 (announcement Snoogie)
+- **Snoogie** got 12 new blocks for the biopage, which you can now find in your dashboard for free! 😍
+
 ### 31.01.2023 (announcement Snoogie)
 - We have updated the Advanced Blocks plugin on **Snoogie** so that each and every block can run flawlessly with the new version of the platform.
 

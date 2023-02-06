@@ -1,3 +1,26 @@
+Update 29.0.0 - 6 February, 2023
+
+Implemented sidebar instead of top menu.
+Implemented teams & teams members statistics.
+Implemented User city & continent tracking.
+Implemented Admin panel statistics for: Continents, Countries & Devices (including visual map).
+Implemented Admin panel plan duplication feature.
+Implemented user logs city & continent tracking as well.
+Implemented the ability to set who can see the directory page (from the admin panel settings).
+Implemented caching for additional domains, making certain pages faster.
+Implemented caching for plans making certain pages faster.
+Implemented 1 hour caching for the stats in the landing page making it faster.
+Improved the performance of the dashboard, links and link pages.
+Improved the performance of the dashboard, links and link pages.
+Updated User API Admin endpoint with all the user details.
+Updated Admin User View page to display more user details.
+Improved the chart UI when having a lot of dates selected.
+Fixed URL shortner with pixels not working properly.
+Fixed link creation without a custom alias not being properly randomized.
+Fixed meta tags checker tool not working properly with certain characters.
+Multiple other code cleanups and improvements.
+
+
 Update 28.0.0 - 6 January, 2023
 
 Implemented Mollie payment processor for the Payment Blocks Plugin.

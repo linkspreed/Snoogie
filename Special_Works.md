@@ -1,4 +1,8 @@
 ### 09.02.2023 (announcement Snoogie)
+- Today we finally released the long awaited Team Plugin for **Snoogie**. 
+- All existing users and new users now get the free ability to create, manage and grow teams.
+
+### 09.02.2023 (announcement Snoogie)
 - Today I am very proud to announce that we are working on a new plugin for **Snoogie**, with which we will implement artificial intelligence into the platform.
 
 ### 09.02.2023 (announcement Snoogie)

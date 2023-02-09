@@ -1,3 +1,8 @@
+Update 30.0.0 - 9 February, 2023
+
+Implemented & released the 🤖 Ai Writer plugin.
+
+
 Update 29.0.0 - 6 February, 2023
 
 Implemented sidebar instead of top menu.

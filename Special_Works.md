@@ -1,4 +1,25 @@
 ### 11.02.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 11.02.2023 (announcement Snoogie)
+- The launch of version 30.1.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 11.02.2023 (announcement Snoogie)
+- We are now starting the launch of v30.1.0.
+
+### 11.02.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 30.1.0 for **Snoogie**.
+
+### 11.02.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 30.1.0 for **Snoogie**.
+
+### 11.02.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v30.1.0. 😍
+
+### 11.02.2023 (announcement Snoogie)
 - Get ready to upgrade your #BioPage platform because Version 30.1 is launching soon! 🚀🌟
 - 💻💥 With new features and improved performance, you'll be able to streamline your workflow and maximize your productivity like never before!💥💻
 

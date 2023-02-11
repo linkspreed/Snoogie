@@ -1,3 +1,19 @@
+Update 30.1.0 - 11 February, 2023
+
+Implemented filter by AI Type & order by generated words - AI Documents page (AI Writer plugin).
+Implemented output language for AI documents (AI Writer plugin).
+Implemented Blog Article Idea & Outline Type (AI Writer plugin).
+Implemented Blog Article Section Writer Type (AI Writer plugin).
+Implemented Video Idea Type (AI Writer plugin).
+Implemented Video Title Type (AI Writer plugin).
+Implemented Video Description Type (AI Writer plugin).
+Improved AI document generation with a better loader in case it takes more time to generate it (to avoid double submissions).
+Improved link type pages - Now you will not see a dropdown to choose which type of link to create. If you are on the even links list, you will automatically get the proper modal when wanting to create a link.
+Fixed Event links not showing up in the sidebar.
+Fixed all GET API endpoints results_per_page not being taken into consideration.
+
+
+
 Update 30.0.0 - 9 February, 2023
 
 Implemented & released the 🤖 Ai Writer plugin.

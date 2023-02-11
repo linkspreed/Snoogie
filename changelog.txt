@@ -13,7 +13,6 @@ Fixed Event links not showing up in the sidebar.
 Fixed all GET API endpoints results_per_page not being taken into consideration.
 
 
-
 Update 30.0.0 - 9 February, 2023
 
 Implemented & released the 🤖 Ai Writer plugin.

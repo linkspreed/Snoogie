@@ -1,3 +1,7 @@
+### 16.02.2023 (announcement Snoogie)
+- We published the AI on **Snoogie**. 
+- However, the tool will only be fully functional in about 2 months!
+
 ### 11.02.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.

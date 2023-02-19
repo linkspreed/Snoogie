@@ -1,3 +1,24 @@
+### 19.02.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.02.2023 (announcement Snoogie)
+- The launch of version 30.2.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 19.02.2023 (announcement Snoogie)
+- We are now starting the launch of v30.2.0.
+
+### 19.02.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 30.2.0 for **Snoogie**.
+
+### 19.02.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 30.2.0 for **Snoogie**.
+
+### 19.02.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v30.2.0. 😍
+
 ### 16.02.2023 (announcement Snoogie)
 - We published the AI on **Snoogie**. 
 - However, the tool will only be fully functional in about 2 months!

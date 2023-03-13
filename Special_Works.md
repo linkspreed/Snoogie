@@ -1,4 +1,7 @@
 ### 13.03.2023 (announcement Snoogie)
+- Introducing the newest update to the ultimate bio page creator tool, Snoogie! With version 31.0.0 now live, you can easily create and customize your bio page with a variety of sleek templates, advanced design tools, and integrations with top website builders. Show off your personal brand with Snoogie. Get started now! #Snoogie #BioPageCreator #PersonalBrand
+
+### 13.03.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 

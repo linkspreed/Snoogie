@@ -1,3 +1,35 @@
+Update 31.0.0 - 13 March, 2023
+
+Implemented MercadoPago one time payments.
+On registration, now you will be redirected to a page containing the welcome=user_id URL parameter, for easy conversion management when needed.
+Fixed biolink page duplication - now duplicated pages will not be automatically verified.
+AIX Plugin Changes
+Implemented Speech to Text AI.
+Configurable from the admin panel - settings - AIX section and admin panel - plans section for your users.
+Implemented Mood selector for Image Generation.
+Implemented Website Headline Generator template.
+Implemented Blog Article Idea Generator template.
+Implemented Blog Intro Generator template.
+Implemented Blog Outro Generator template.
+Implemented Blog Article Generator template.
+Implemented the ability to duplicate AI Documents & Images with ease.
+Implemented Reviews - AI Documents template.
+Implemented Hashtag - AI Documents template.
+Implemented GPT3.5 Turbo model for AI documents.
+Implemented AI Images - artist style setting generation.
+Implemented AI Images - style setting generation.
+Implemented AI Images - lighting setting generation.
+Implemented more widgets in the admin panel dashboard.
+Implemented categorized templates page for AI documents.
+Implemented the ability to display latest generated AI images on the home page - can be enabled from the admin panel.
+Reworked the look of the AI Images table, creation and update pages.
+Reworked the look of the AI Documents creation page.
+Improved how tokens are calculated and handled for AI documents in the backend.
+Improved AI images result separation when choosing multiple variants.
+Fixed a few issues with text prompts in AI documents generation.
+Fixed GPT3.5 Turbo model implementation bug.
+
+
 Update 30.2.0 - 19 February, 2023
 
 AI Plugin Changes

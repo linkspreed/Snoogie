@@ -1,3 +1,6 @@
+### 13.04.2023 (announcement Snoogie)
+- 👨‍💻👩‍💻🚀 Exciting news! We're in the final stretch of v32.0.0 development for Biospreed. Can't wait to share the update with all of you soon! #tech #development #updates
+
 ### 24.03.2023 (announcement Snoogie)
 - Get excited #AI enthusiasts! Our new AI modules have arrived with a ton of fresh functions that will soon be available in our Premium Plan. Prepare to streamline your entire workflow in just a few weeks time 🚀 #ArtificialIntelligence #Optimization
 

@@ -1,3 +1,31 @@
+Update 32.0.0 - 13 April, 2023
+
+Implemented the new Biolink pre-built Templates system, configurable and managed via the admin panel.
+Implemented the new Broadcasts system which allows you to easily send bulk emails to your users.
+Implemented new QR code styles: Heart, Diamond.
+Implemented new QR inner eye / outer eye styles: Diamond, Flower, Leaf, Circle, Rounded.
+Implemented the ability to set a maximum upload size for payment proofs of the Offline Payment type of payments, via the admin panel.
+Implemented the ability to set the amount of days when the system should send a plan expiry reminder, via the admin panel.
+Implemented filters for the biolinks themes admin panel page.
+Improved the admin panel domain update page, now it will show current detected DNS values.
+Improved the admin panel codes page to be able to filter redeemed codes and payments.
+Improved the admin panel taxes page to be able to filter payments based on particular used taxes.
+Improved the admin panel user dropdown menu in the sidebar with all the available account links.
+Improved YooKassa payment gateway to support the receipt parameter.
+Improved look of the Guests payments page for the Payment blocks plugin.
+Improved look of the biolink page verified badge.
+Duplicated biolink blocks now go right under the original one, instead of at the end.
+AIX Plugin Changes
+Implemented a fully-featured AI Chat system.
+Implemented the custom Templates Category system.
+Implemented the custom Templates system.
+Implemented API response time for OpenAI requests for each request, which will show in the admin panel (transcriptions, documents ,images).
+Implemented GPT 4 model for AI Documents.
+Multiple other plugin improvements over all pages.
+Fixed admin panel: transcriptions, images & documents deletion not working.
+Fixed a few bugs related to the Documents, Images & Transcriptions pages.
+
+
 Update 31.0.0 - 13 March, 2023
 
 Implemented MercadoPago one time payments.

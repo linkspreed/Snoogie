@@ -1,4 +1,7 @@
 ### 13.04.2023 (announcement Snoogie)
+- 🎉Exciting news alert! 🚨Snoogie just released version v32.0.0 and we've got all the patch notes up on Github. 🙌 Check it out now! #SnoogieUpdates #PatchNotes #Github
+
+### 13.04.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 

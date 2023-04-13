@@ -1,4 +1,25 @@
 ### 13.04.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 13.04.2023 (announcement Snoogie)
+- The launch of version 32.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 13.04.2023 (announcement Snoogie)
+- We are now starting the launch of v32.0.0.
+
+### 13.04.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 32.0.0 for **Snoogie**.
+
+### 13.04.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 32.0.0 for **Snoogie**.
+
+### 13.04.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v32.0.0. 😍
+
+### 13.04.2023 (announcement Snoogie)
 - 👨‍💻👩‍💻🚀 Exciting news! We're in the final stretch of v32.0.0 development for Biospreed. Can't wait to share the update with all of you soon! #tech #development #updates
 
 ### 24.03.2023 (announcement Snoogie)

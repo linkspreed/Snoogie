@@ -1,4 +1,7 @@
 ### 15.04.2023 (announcement Snoogie)
+- We just released new features from the latest update v32.0.0, including a brand new version of Snoogie and all the latest AI features! Get ready to experience the future of technology 🚀 #innovation #techupdate
+
+### 15.04.2023 (announcement Snoogie)
 - We've just uploaded the new AI plugin for Snoogie to Version V5.0.0! Exciting news for our users, the new AI is now available on the platform 🎉 #AI #Snoogie #NewRelease
 
 ### 13.04.2023 (announcement Snoogie)

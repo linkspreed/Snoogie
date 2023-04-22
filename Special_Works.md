@@ -1,3 +1,6 @@
+### 22.04.2023 (announcement Snoogie)
+- 👨‍💼👩‍💻💰💡🤖 Exciting news! We're putting together a price plan for Biospreed and Snoogie, and getting ready for our paid AI features launch in a few weeks! Stay tuned for more updates! #AI #pricing #excited
+
 ### 15.04.2023 (announcement Snoogie)
 - We just released new features from the latest update v32.0.0, including a brand new version of Snoogie and all the latest AI features! Get ready to experience the future of technology 🚀 #innovation #techupdate
 

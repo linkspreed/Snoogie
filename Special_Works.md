@@ -1,4 +1,7 @@
 ### 03.05.2023 (announcement Snoogie)
+- 🚀 It's time to upgrade the plugins for Snoogie! 🎉 We're currently working on the plugins and will keep you all updated on the progress. Stay tuned! #Snoogie #plugins #webdevelopment #upgrades 🤖💻👨‍💻
+
+### 03.05.2023 (announcement Snoogie)
 - 🎉🚀 We're proud to announce that we've successfully released Snoogie Version 33.0.0! 🎉🚀 But the work doesn't stop there - we'll be continuing development on some new features tonight! #Snoogie #Version33 #DevelopmentInProgress #Proud #ExcitedForTheFuture 💻📈🙌
 
 ### 03.05.2023 (announcement Snoogie)

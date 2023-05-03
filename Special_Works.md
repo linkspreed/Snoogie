@@ -1,3 +1,6 @@
+### 03.05.2023 (announcement Snoogie)
+- 📢 Big news! 🚨 We're thrilled to announce the release of version 33.0.0 for Snoogie tonight! 🎉 Get ready for some major upgrades and improvements! 🔥 #softwareupdate #excitingtimes #technews 🤖
+
 ### 22.04.2023 (announcement Snoogie)
 - 👨‍💼👩‍💻💰💡🤖 Exciting news! We're putting together a price plan for Biospreed and Snoogie, and getting ready for our paid AI features launch in a few weeks! Stay tuned for more updates! #AI #pricing #excited
 

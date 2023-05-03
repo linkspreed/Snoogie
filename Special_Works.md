@@ -1,4 +1,7 @@
 ### 03.05.2023 (announcement Snoogie)
+- 🎉🚀 We're proud to announce that we've successfully released Snoogie Version 33.0.0! 🎉🚀 But the work doesn't stop there - we'll be continuing development on some new features tonight! #Snoogie #Version33 #DevelopmentInProgress #Proud #ExcitedForTheFuture 💻📈🙌
+
+### 03.05.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 

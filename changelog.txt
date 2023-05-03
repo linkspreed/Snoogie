@@ -1,3 +1,29 @@
+Update 33.0.0 - 3 May, 2023
+
+Completely reworked the biolink add new block modal to a more better and modern one.
+Implemented the ability to customize the block shadows of all the blocks that support borders.
+Implemented biolink pages Big Link block for the Ultimate Blocks Plugin.
+Implemented biolink pages Typeform embed block for the Ultimate Blocks Plugin.
+Implemented biolink pages Markdown block for the Ultimate Blocks Plugin.
+Implemented biolink pages PDF Document block for the Ultimate Blocks Plugin.
+Implemented biolink pages TikTok profile embed block for the Pro Blocks Plugin.
+Implemented biolink pages Pinterest profile embed block for the Pro Blocks Plugin.
+Implemented biolink pages Twitter profile embed block for the Pro Blocks Plugin.
+Implemented the ability to set background position for biolink pages.
+Implemented the ability to set avatar image position for biolink pages.
+Implemented the ability to completely enable/disable the API system from the admin panel.
+Implemented admin panel users page filter by user subscribed or not.
+Improved the live preview of changes in the biolink page of multiple blocks.
+Improved the paragraph block - now also has a background with multiple new customizable parts.
+Improved the creation process of the biolinks templates in the backend.
+Improved API documentation pages with a good looking code highlighter.
+Improved all the range type inputs to show the current value.
+Added icons for operating systems and browsers in the statistics pages.
+Updated the MaxMind countries & cities detection databases to their latest versions.
+Improved the account settings pages with icons and cleaned up parts of the code.
+Fix bug with HTTP headers tool.
+
+
 Update 32.0.0 - 13 April, 2023
 
 Implemented the new Biolink pre-built Templates system, configurable and managed via the admin panel.

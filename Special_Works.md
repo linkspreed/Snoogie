@@ -1,4 +1,10 @@
 ### 04.05.2023 (announcement Snoogie)
+- 🎉📢🙌 Exciting news alert: #SnoogieAPI is now FREE for all users with an account! 😍👍 Check out our user-friendly panel with detailed documentation and APIs 🔑📚 Stay tuned for more info on our social media channels next week! #APIforAll #DeveloperCommunity 🚀👨‍💻
+
+### 04.05.2023 (announcement Snoogie)
+- 📢 Snoogie is stepping up their game! 🔥 They have just announced that they will be using Google Safe Browsing API for their Biopages! 🌐 This will provide an extra layer of protection and security for all users. 💻 You can now browse with peace of mind knowing that Snoogie has your back! 🙌 #Snoogie #GoogleSafeBrowsing #Biopages #Security #Protection
+
+### 04.05.2023 (announcement Snoogie)
 - 🎉 Introducing our latest update to Snoogie V33.0.0! 🚀 We've just released a smaller patch that fixes some minor bugs and improves overall performance. 🐛🛠️ Keep snoogling with ease and enjoy a seamless experience! #SnoogieUpdate #BugFixes #PerformanceBoost 🙌👍
 
 ### 03.05.2023 (announcement Snoogie)

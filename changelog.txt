@@ -1,3 +1,8 @@
+Update 33.0.0 [Patch 1] - 4 May, 2023
+
+Fix small bugs
+
+
 Update 33.0.0 - 3 May, 2023
 
 Completely reworked the biolink add new block modal to a more better and modern one.

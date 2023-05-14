@@ -1,3 +1,6 @@
+### 14.05.2023 (announcement Snoogie)
+- 👀 Big news! Tonight we're monetizing Biospreed and Snoogie! 🎉 With your support, we can keep the innovation coming at Linkspreed Research Lab. 🔥 Get ready for some amazing new platforms and updates. Are you excited for what's to come? #Linkspreed #Innovation #PremiumPlans 💰
+
 ### 04.05.2023 (announcement Snoogie)
 - 🎉📢🙌 Exciting news alert: #SnoogieAPI is now FREE for all users with an account! 😍👍 Check out our user-friendly panel with detailed documentation and APIs 🔑📚 Stay tuned for more info on our social media channels next week! #APIforAll #DeveloperCommunity 🚀👨‍💻
 

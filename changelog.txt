@@ -1,3 +1,17 @@
+Update 34.0.0 - 5 June, 2023
+
+Implemented OpenAI API - Auto translation for the Languages section in the admin panel.
+Implemented the ability to customize the whole bootstrap theme colors via the admin panel.
+Improved biolink page preview, including a loading animation.
+Improved landing page by adding nice-looking and smooth animations to certain sections.
+Implemented tooltips over the Create buttons (ex: Project create button) where the usage & limits of your current plans are shown.
+Fixed API QR code vcard phone numbers not properly working.
+Fixed account settings page not saving in certain situations.
+Fixed FAQ block background transparency bug.
+Fixed image slider block not showing properly on RTL languages.
+Fixed Directory page mobile responsiveness.
+
+
 Update 33.0.0 [Patch 1] - 4 May, 2023
 
 Fix small bugs

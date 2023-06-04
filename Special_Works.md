@@ -1,3 +1,27 @@
+### 05.06.2023 (announcement Snoogie)
+- 🎉🚨Introducing the brand new Snoogie version 34.0.0 - packed with amazing features🚀🔥 Have you tried it yet?🤔 Share your thoughts with us👇 #Snoogie #NewVersion #UpgradeTime
+
+### 05.06.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 05.06.2023 (announcement Snoogie)
+- The launch of version 34.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 05.06.2023 (announcement Snoogie)
+- We are now starting the launch of v34.0.0.
+
+### 05.06.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 34.0.0 for **Snoogie**.
+
+### 05.06.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 34.0.0 for **Snoogie**.
+
+### 05.06.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v34.0.0. 😍
+
 ### 14.05.2023 (announcement Snoogie)
 - 👀 Big news! Tonight we're monetizing Biospreed and Snoogie! 🎉 With your support, we can keep the innovation coming at Linkspreed Research Lab. 🔥 Get ready for some amazing new platforms and updates. Are you excited for what's to come? #Linkspreed #Innovation #PremiumPlans 💰
 

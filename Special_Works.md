@@ -1,3 +1,6 @@
+### 28.06.2023 (announcement Snoogie)
+- 🚀 We're thrilled to announce that our subdomain system just got an upgrade! 🎉🔧 Visit https://snoogie.tk, and it will now redirect you to https://snoogie.linkspreed.com. Don't worry, nothing changes for you in terms of usability! Keep enjoying our platform as usual. 😊 Have you checked it out yet? #SubdomainUpgrade #Snoogie
+
 ### 05.06.2023 (announcement Snoogie)
 - 🎉🚨Introducing the brand new Snoogie version 34.0.0 - packed with amazing features🚀🔥 Have you tried it yet?🤔 Share your thoughts with us👇 #Snoogie #NewVersion #UpgradeTime
 

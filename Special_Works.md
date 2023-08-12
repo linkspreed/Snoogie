@@ -1,3 +1,27 @@
+### 12.08.2023 (announcement Snoogie)
+- 🎉 Exciting news, everyone! 📢 We've just released Version 36.0.0 of our amazing Snoogie platform! 🚀🎊 Check out the Patch Notes on our Github page and let us know your thoughts! 💬👇 #SnoogieUpdates #NewRelease #TechNews
+
+### 12.08.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 12.08.2023 (announcement Snoogie)
+- The launch of version 36.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 12.08.2023 (announcement Snoogie)
+- We are now starting the launch of v36.0.0.
+
+### 12.08.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 36.0.0 for **Snoogie**.
+
+### 12.08.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 36.0.0 for **Snoogie**.
+
+### 12.08.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v36.0.0. 😍
+
 ### 21.07.2023 (announcement Snoogie)
 - 🎉📢 Hey Snoogie users! We just rolled out version 35.0.0 of our platform! 🚀🔥 Exciting improvements and bug fixes await you. 😍💪 Have you updated yet? Let us know your thoughts and experiences with the latest version! 🤔💭 #SnoogieUpdates #Version35 #FeedbackWelcome
 

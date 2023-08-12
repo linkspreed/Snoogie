@@ -1,3 +1,50 @@
+Update 36.0.0 - 12 August, 2023
+
+Implemented the ability to change the referral key to a custom one.
+Implemented the ability to change the referral key to a custom one.
+Implemented the ability to enable/disable blog system sections: popular widget, views, categories widget, whole system.
+Implemented the ability to enable/disable pages system sections: popular widget, views, whole system.
+Implemented the ability to enable/disable testimonials section in the landing page via the admin panel.
+Implemented new blocks type editor for the Pages & Blog articles creation page.
+Implemented new blocks type editor for the Broadcasting system.
+Implemented Spintax compatibility with Internal notifications & Broadcasting system.
+Reworked the languages system to improve the way languages are updated on future versions and SEO regarding the language switching mechanism.
+Improved the blog article edit / create page look.
+Improved the page edit / create page look.
+Improved the broadcasted emails - now you can mark a newsletter as a system email (mandatory) which will now show the unsubscribe button.
+Improved the broadcasted emails - now the user phishing code will show in there as well.
+Improved the caching on some pages that results in further performance improvements.
+Improved the blog category and pages category parts when there are no posts to display.
+Improved the language translation system to show you potential translation errors when dealing with variables.
+Changed the referral key parameter from ?referral_key= to ?ref=.
+Fixed the ability to create short URLs with restricted paths - such as "en", "app"...etc.
+AIX Plugin Changes
+Implemented AI Document template: PHP code snippet.
+Implemented AI Document template: JS code snippet.
+Implemented AI Document template: SQL code snippet.
+Implemented AI Document template: HTML code snippet.
+Implemented AI Document template: Python code snippet.
+Implemented the ability to create multiple chat assistants with different personalities and knowledge, via the admin panel.
+Implemented the ability to set multiple OpenAI API keys - which will randomly be used when doing an OpenAI API request.
+Improved the chat page message field.
+Implemented Quote generator AI Template.
+Implemented LinkedIn post generator AI Template.
+Implemented Twitter thread generator AI Template.
+Implemented Pinterest caption generator AI Template.
+Implemented TikTok video caption generator AI Template.
+Implemented TikTok video idea generator AI Template.
+Implemented Song lyrics generator AI Template.
+Implemented Joke generator AI Template.
+Implemented Welcome email generator AI Template.
+Implemented Outreach email generator AI Template.
+Implemented Facebook ads copy generator AI Template.
+Implemented Google ads copy generator AI Template.
+Implemented LinkedIn ads copy generator AI Template.
+Improved the code when waiting for the OpenAI API answers - the site will not lock itself for the user anymore (for other tabs).
+Improved the chat page: Now you can submit the chat message with the Enter key, and add a new line with Shift+Enter.
+Implemented StableDiffusion API for the AI Images section, which can be defined on a per-plan basis.
+
+
 Update 35.0.0 - 21 July, 2023
 
 Implemented biolink pages Rumble Embed block for the Ultimate Blocks Plugin.

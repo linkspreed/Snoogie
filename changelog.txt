@@ -1,3 +1,20 @@
+Update 37.0.0 - 28 August, 2023
+
+Implemented the ability to control the length of the generated random short URL from the admin panel.
+Implemented FAQ block on the homepage which can be enabled from the admin panel.
+Implemented the ability to toggle similar tools, extra content and share buttons for the Tools section.
+Added support for PHP 8.2.
+Reworked the home index page.
+Improved look on plans page.
+Improved look on affiliate page.
+Improved look on plan payment thank you page.
+Improved look and how internal notifications widget works.
+Upgraded from FontAwesome 5 to FontAwesome 6.
+Fixed broadcasts new editor variables not working properly.
+Fixed the ability to create short URLs on language paths or folder names of the product.
+Other overall look and feel improvements.
+
+
 Update 36.0.0 - 12 August, 2023
 
 Implemented the ability to change the referral key to a custom one.

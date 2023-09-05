@@ -1,3 +1,15 @@
+Update 38.0.0 - 5 September, 2023
+
+Implemented Splash Page for links feature - where you can setup a countdown timer with ads, based on plan settings via the admin panel.
+Implemented the ability to display smaller verification checkmark on the Heading block as well.
+Improved pixel creation type selector.
+Improved announcements look on the frontend.
+LinkedIn login transitioned to the new version required by LinkedIn.
+Fixed internal notifications not properly displaying payment details.
+Fixed vcard block duplication not properly duplicating.
+Fixed missing fontawesome social icons.
+
+
 Update 37.0.0 - 28 August, 2023
 
 Implemented the ability to control the length of the generated random short URL from the admin panel.

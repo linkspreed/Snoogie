@@ -1,3 +1,12 @@
+Update 39.0.0 - 21 September, 2023
+
+ Implemented custom splash pages system for users - where they can create and configure their own splash pages for their links.
+ Implemented the ability to set custom css & custom js for default splash pages via the admin panel.
+ Implemented the ability to set auto redirection for splash pages from the admin panel.
+ Improved and changed the overall look of the app interface.
+ Added the new Threads social network in the footer - from the admin panel.
+
+
 Update 38.0.0 - 5 September, 2023
 
 Implemented Splash Page for links feature - where you can setup a countdown timer with ads, based on plan settings via the admin panel.

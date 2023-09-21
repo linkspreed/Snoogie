@@ -1,3 +1,26 @@
+### 21.09.2023 (announcement Snoogie)
+- 🎉📣 Hey there, Snoogie fam! Exciting news 🌟 We're thrilled to announce the release of Version 39.0.0 🚀🎉 Check out the complete changelog on our Github page! 🔍📋 Have you updated yet? Share your thoughts on the latest version in the comments below! 🗨️💭 #SnoogieUpdate #NewRelease #TechTalk
+ 
+### 21.09.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 21.09.2023 (announcement Snoogie)
+- The launch of version 39.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 21.09.2023 (announcement Snoogie)
+- We are now starting the launch of v39.0.0.
+
+### 21.09.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 39.0.0 for **Snoogie**.
+
+### 21.09.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 39.0.0 for **Snoogie**.
+
+### 21.09.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v39.0.0. 😍
 ### 05.09.2023 (announcement Snoogie)
 - 🎉 We've just released version 38.0.0 of our beloved app! 🚀📱 Experience new features, enhanced performance, and a smoother user interface. 😍🔥 Have you updated your Snoogie yet? Let us know in the comments below! ⬇️ #SnoogieUpdate #NewAndImproved 🆕🔝
 

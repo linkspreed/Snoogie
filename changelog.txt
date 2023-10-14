@@ -1,4 +1,4 @@
-Update 40.0.0 - 13 October, 2023
+Update 40.0.0 - 14 October, 2023
 
  Implemented & Released the new PWA Plugin.
  Implemented New Static Pages Link Type.

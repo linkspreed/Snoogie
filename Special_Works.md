@@ -1,3 +1,27 @@
+### 14.10.2023 (announcement Snoogie)
+- Snoogie 40.0.0 is here! ❄️ This cozy update is packed with new features to help you stay warm and comfortable all winter long. Check out the changelog to see all the new features and improvements.
+
+### 14.10.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 14.10.2023 (announcement Snoogie)
+- The launch of version 40.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 14.10.2023 (announcement Snoogie)
+- We are now starting the launch of v40.0.0.
+
+### 14.10.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 40.0.0 for **Snoogie**.
+
+### 14.10.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 40.0.0 for **Snoogie**.
+
+### 14.10.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v40.0.0. 😍
+
 ### 21.09.2023 (announcement Snoogie)
 - 🎉📣 Hey there, Snoogie fam! Exciting news 🌟 We're thrilled to announce the release of Version 39.0.0 🚀🎉 Check out the complete changelog on our Github page! 🔍📋 Have you updated yet? Share your thoughts on the latest version in the comments below! 🗨️💭 #SnoogieUpdate #NewRelease #TechTalk
  

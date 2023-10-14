@@ -1,4 +1,4 @@
-#  <img align="left" alt="Snoogie" width="300px" src="https://snoogie.tk/uploads/logo/a4570f8f18bca2e1ee03772053b18494.png" draggable="false" /> ([Click to try 🚀](https://snoogie.tk/)) (v39.0.0)
+#  <img align="left" alt="Snoogie" width="300px" src="https://snoogie.tk/uploads/logo/a4570f8f18bca2e1ee03772053b18494.png" draggable="false" /> ([Click to try 🚀](https://snoogie.tk/)) (v40.0.0)
 
 Snoogie ☁️ - the biopage 💬 that accompanies you everywhere 🧡 and never lets you down.
 

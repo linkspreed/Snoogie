@@ -1,3 +1,49 @@
+Update 40.0.0 - 13 October, 2023
+
+ Implemented & Released the new PWA Plugin.
+ Implemented New Static Pages Link Type.
+ Implemented the ability to enable/disable force download for file links.
+ Implemented the ability to set a logo for a splash page.
+ Implemented Splash Pages API endpoint.
+ Implemented Splash Pages ability to add ads as a user.
+ Implemented the HTTP Status code customization feature for short links.
+ Implemented the Cloaking URL feature for short links.
+ Implemented the Cloaking URL feature to be toggled on/off via the plan settings.
+ Implemented the ability to set icons for custom pages created in the admin panel.
+ Implemented the ability to change the tracking type and cookie tracking duration of the affiliate system.
+ Implemented API endpoint for Domains in the admin panel.
+ Implemented Ad blocker detection alert system.
+ Implemented Ad blocker detection lock content until ad blocker is disabled.
+ Implemented Admin panel Webhooks for Domains creation & update events.
+ Implemented the ability to change the main font of the whole website directly from the admin panel.
+ Implemented Database tables size stats in the admin panel statistics page.
+ Implemented Search widget for the Blogging system.
+ Implemented the ability to change the IP displayed to the user for the Custom Domains page shown to the user.
+ Implemented Redeemed Codes Statistics page in the Admin panel.
+ Implemented new admin panel statistics page for Event links.
+ Implemented new admin panel statistics page for File links.
+ Implemented new admin panel statistics page for Static Pages links.
+ Implemented new admin panel statistics page for Vcards links.
+ Implemented User's plans distribution statistics table in the Admin panel.
+ Implemented Blog RSS feed.
+ Implemented Microsoft social login.
+ Implemented canonical tags for public pages where they will help with SEO.
+ Implemented the ability to change the OpenAI model for admin panel translation usage.
+ Implemented the ability to set a CDN via the Offload plugin.
+ Implemented the ability to set a Language flag and also set the order of the Languages via the admin panel.
+ Improved the Pay page by displaying an alert on the title when leaving the page.
+ Improved the UI on the admin panel statistics page.
+ Cleaned up the share buttons used in places like blog posts & custom pages and added Telegram share button.
+ Upgraded ReCaptcha, PHPMailer, TwoFactorAuth, Stripe project dependencies to their latest versions.
+ Other small code improvements, changes and tweaks across the whole product.
+ Fix API User endpoint not working properly.
+ Fix Paypal recurring payment rare issue when the business name is not provided.
+ Fix Admin panel Discount update not working properly in some cases.
+ Fix small issues with Link Scheduling via the API.
+ Fix vcard, event, file links pixels not properly processing.
+ Fix download csv/json feature on the link statistics pages for Entries.
+
+
 Update 39.0.0 - 21 September, 2023
 
  Implemented custom splash pages system for users - where they can create and configure their own splash pages for their links.

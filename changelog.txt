@@ -1,3 +1,50 @@
+Update 41.0.0 - 19 November, 2023
+
+Minimum PHP requirement is now PHP 8.0 instead of PHP 7.4.
+Vcard phone numbers for QR codes, Links & Blocks will have to be re-added as the system was redesigned to handle phone number labels.
+ Implemented & Released the new Push Notifications Plugin.
+ Implemented the ability to set a custom start URL - PWA plugin.
+ Implemented notification badges for installed PWA instances in case the user has an internal notification pending - PWA plugin.
+ Implemented the ability to set preview screenshots for mobile and desktop when installing the PWA of the app - PWA plugin.
+ Implemented the ability to set shortcuts for contextual menu on the PWA app - PWA plugin.
+ Implemented admin panel statistics page for Internal notifications sent.
+ Implemented new filters for users logs: device type filter, city search, continent filter, country search, browser name and browser language.
+ Implemented new custom select component with search for the frontend and admin panel.
+ Implemented admin panel new details and filters for each user based on last login: OS Name, Browser language, Device type.
+ Implemented admin panel new filter for broadcasts: device type.
+ Implemented admin panel new filter for internal notifications: device type.
+ Implemented the ability to change the default payment frequency selected, via the admin panel.
+ QR code embedded data will now be displayed to the user when creating / updating a QR code.
+ Implemented the new App linking feature for Short URLs that can automatically detect certain apps and open them via mobile.
+ Implemented YouTube, Instagram, Snapchat, Telegram, Whatsapp, Fb Messenger, Spotify, LinkedIn, Pinterest, Netflix, Twitch, Google Sheets, Google Maps, Airbnb for App linking automatic detection on short URLs.
+ Implemented the ability to disable hover animation on a bio link page.
+ Implemented the ability to set the width of a bio link page.
+ Implemented the ability to set the spacing between each block in a bio link page.
+ Implemented the Threads embed block.
+ Implemented the Snapchat embed block for the Pro Blocks plugin.
+ Implemented the Telegram embed block for the Ultimate Blocks plugin.
+ Implemented the ability to set custom phone number labels for Vcard links, Vcard block & Vcard QR codes.
+ Implemented the ability to change the Image slider block interval setting.
+ Reworked the looks of the Directory page.
+ Now the pages outside the app will all have the same new menu and footer as in the index.
+ Multiple blocks will now display relevant name to make it easier to identify them when editing a bio link page.
+ Image Grid block can now handle 2 & 3 columns by settings as well.
+ The ad blocker detector will only be triggered when a user is not logged in and does not have the No ads plan feature.
+ Cleaned up and optimized duplicated translations.
+ Admin panel taxes can now be deleted in case they are created by mistake.
+ Implemented the ability to set a custom delay for the ad blocker detector modal via the admin panel.
+ Fix internal notifications URL destination bug.
+AIX Plugin Changes
+ Implemented DALL-E v3 images API model.
+ Implemented the new GPT 4 Vision API into the AI Chat functionality, to upload images and ask any info about them.
+ Implemented Text to Speech functionality via OpenAI.
+ Implemented AI Chat settings for Context length & automatic end of maximum context handling.
+ Implemented AI Chat settings for creativity (temperature).
+ Improved the AI Chat window overall experience (added total number of messages, timestamp, scroll window, easier chat creation with pre-filled name).
+ Removed old and deprecated AI models: davinci, curie, babbage, ada.
+ Added latest released OpenAI models: GPT 3.5 Turbo latest version, GPT 4 1106 preview.
+
+
 Update 40.0.0 - 14 October, 2023
 
  Implemented & Released the new PWA Plugin.

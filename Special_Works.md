@@ -1,3 +1,27 @@
+### 19.11.2023 (announcement Snoogie)
+- 📣 Exciting news, folks! 🎉 We've just released Version 41.0.0 of Snoogie, the ultimate Biolink generator platform! 🚀✨ This update is packed with game-changing features and improvements to level up your social media game! 😍💪 Have you updated yet? Share your thoughts below using #SnoogieUpdate! 😊👇 #BiolinkGenerator #SocialMediaMarketing
+
+### 19.11.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.11.2023 (announcement Snoogie)
+- The launch of version 41.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 19.11.2023 (announcement Snoogie)
+- We are now starting the launch of v41.0.0.
+
+### 19.11.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 41.0.0 for **Snoogie**.
+
+### 19.11.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 41.0.0 for **Snoogie**.
+
+### 19.11.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v41.0.0. 😍
+
 ### 14.10.2023 (announcement Snoogie)
 - Snoogie 40.0.0 is here! ❄️ This cozy update is packed with new features to help you stay warm and comfortable all winter long. Check out the changelog to see all the new features and improvements.
 

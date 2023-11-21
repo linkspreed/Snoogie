@@ -1,3 +1,8 @@
+Update 41.0.0 (Patch 1) - 21 November, 2023
+
+We've released a hotfix in Patch 1 v41.0.0.
+
+
 Update 41.0.0 - 19 November, 2023
 
 Minimum PHP requirement is now PHP 8.0 instead of PHP 7.4.

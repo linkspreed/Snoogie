@@ -1,3 +1,6 @@
+### 20.11.2023 (announcement Snoogie)
+- 📢 Attention all Snoogie users! 🚀🔧 We're thrilled to announce that we've just released a hotfix for Snoogie v41.0.0 🎉🔥 This update addresses important improvements and fixes, ensuring a smoother experience for you all. 🙌🛠️ Please update your app now to enjoy the latest enhancements! 💪✨ #SnoogieUpdate #Hotfixv41.0.0
+
 ### 19.11.2023 (announcement Snoogie)
 - 📣 Exciting news, folks! 🎉 We've just released Version 41.0.0 of Snoogie, the ultimate Biolink generator platform! 🚀✨ This update is packed with game-changing features and improvements to level up your social media game! 😍💪 Have you updated yet? Share your thoughts below using #SnoogieUpdate! 😊👇 #BiolinkGenerator #SocialMediaMarketing
 

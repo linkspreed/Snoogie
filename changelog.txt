@@ -1,4 +1,4 @@
-Update 41.0.0 (Patch 1) - 21 November, 2023
+Update 41.0.0 (Patch 1) - 20 November, 2023
 
 We've released a hotfix in Patch 1 v41.0.0.
 

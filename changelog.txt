@@ -1,3 +1,41 @@
+Update 42.0.0 - 19 December, 2023
+
+Extended licenses holders ✨
+
+✅ You must set your available payment currencies in the Admin panel - Settings - Payment page
+✅ You must set your available payment currencies in the Admin panel - Settings - Payment processors page
+✅ You must set your payment plan prices in the Admin panel - Plans - Plan update page
+✅ You must update the PWA plugin files if you have it installed.
+
+ Implemented SSO (Single Sign On) support where you can automatically switch between AltumCode software installations with a single click of a button.
+ Implemented Multicurrency support for payments.
+ Implemented the ability to set default payment processor on a per-currency basis.
+ Implemented the ability to set allowed currencies on a per-payment-gateway basis.
+ Implemented Midtrans payment gateway for one time payments.
+ Implemented Yizico payment gateway for one time payments.
+ Implemented Flutterwave payment gateway for one time & recurring payments.
+ Implemented the ability to enable/disable the password requirement when first logging in via a social network.
+ Implemented the ability to set the position of new biolink blocks (top or bottom) via the admin panel.
+ Implemented the ability to set the minimum and maximum short URL length on a per-plan basis.
+ Added all languages available on the OpenAI Text to speech feature.
+ Implemented a subtle prompt to install the PWA app with instructions based on the device for the PWA plugin.
+ Added new gradient presets and replaced old ones for biolink pages.
+ Implemented the ability to specify the Output format for the Text to speech functionality of the AIX plugin.
+ Implemented a new "Health check" page in the admin panel - settings section.
+ Added new gradient presets and replaced old ones for biolink pages.
+ A better looking custom scrollbar is now applied on all widgets that are scrollable.
+ Improved the looks of the "Logged in as Team" bar at the top of the page for the Teams plugin.
+ Upgraded bootstrap CSS/JS to latest v4.6.2.
+ Push notification subscription modal will now only automatically show to the user if their browser is compatible for the Push Notifications plugin.
+ Stripe implementation has been reworked to support the latest available API version.
+ All AIX plugin creation features now auto fill the name - for faster creation.
+ Fix issues with CTA block on biolink pages.
+ Fix biolink page duplication issue.
+ Fix pay page not having default values selected in some cases.
+ Fix ad blocker detector not working properly.
+ Fix ClipDrop bug with AI image creation for the AIX plugin.
+
+
 Update 41.0.0 (Patch 1) - 20 November, 2023
 
 We've released a hotfix in Patch 1 v41.0.0.
